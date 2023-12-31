@@ -40,9 +40,9 @@ Route::middleware('locale')->group(function () {
         
         Route::post('/processing', [ProcessController::class, 'processingHandler'])->name('step.three.handler');
 
-        Route::get('/my-reservation', [ProcessController::class, 'login'])->name('process.reservation.login');
-        Route::post('/my-reservation', [ProcessController::class, 'loginHandler'])->name('process.reservation.login.handler');
-        Route::get('/my-reservation-detail', [ProcessController::class, 'reservationDetail'])->name('process.reservation.detail');        
+        Route::get('/my-reservation', [ProcessController::class, 'login'])->name('login');
+        Route::post('/my-reservation', [ProcessController::class, 'loginHandler'])->name('reservation.login.handler');
+        Route::get('/my-reservation-detail', [ProcessController::class, 'reservationDetail'])->name('reservation.detail');        
 
         Route::get('/thank-you', [ProcessController::class, 'success'])->name('thank-you');
         Route::get('/cancel', [ProcessController::class, 'error'])->name('cancel');
