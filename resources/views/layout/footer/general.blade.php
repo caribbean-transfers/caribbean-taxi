@@ -3,41 +3,41 @@
         <div>
             <picture>
                 <source srcset="/assets/img/logo.png" type="image/webp">
-                <img src="/assets/img/logo.png" alt="Traslado a Playa del Carmen" title="Traslado a Playa del Carmen" loading="lazy" width="111" height="71">
+                <img src="/assets/img/logo.png" alt="Caribbean Taxi" title="Caribbean Taxi" loading="lazy" width="222" height="82">
             </picture>
-            <p>Más de una década de experiencia, ofrecemos el traslado más seguro, veloz y confiable en Cancún.</p>
+            <p>More than a decade of experience, we offer the safest, fastest and most reliable transfer in Cancun.</p>
+            @if(false)
             <div class="social">
                 <a href="https://www.facebook.com/taxirivieramayaMX" title="Facebook" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-facebook"></use></svg></a>
                 <a href="https://twitter.com/RivieraMayaTaxi" title="Twitter" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-twitter"></use></svg></a>
                 <a href="https://www.instagram.com/taxirivieramaya/" title="Instagram" rel="noopener noreferrer"><svg width="15" height="15"><use xlink:href="/assets/img/svg/icons.svg#social-instagram"></use></svg></a>
             </div>
+            @endif
         </div>
         <div>
-            <h4>Información</h4>
-            <a href="servicios" title="Servicios">Servicios</a>
-            <a href="#" title="Nuestra Flota">Nuestra Flota</a>
-            <a href="/contacto" title="Contacto">Contacto</a>
+            <h4>Information</h4>
+            <a href="/services" title="Services">Services</a>
+            <a href="/quote" title="Quotations">Quotations</a>
+            <a href="/contact" title="Contact">Contact</a>
         </div>
         <div>
-            <h4>Destinos</h4>
-            <a href="/taxi-aeropuerto-cancun" title="Taxi Aeropuerto Cancún">Taxi Aeropuerto Cancún</a>
-            <a href="/traslado-de-cancun-tulum" title="Traslado de Cancún a Tulum">Traslado de Cancún a Tulum</a>
-            <a href="/transporte-cancun-a-playa-del-carmen" title="Transporte de Cancún a Playa del Carmen">Transporte de Cancún a Playa del Carmen</a>
-            <a href="/transporte-cancun-a-akumal" title="Transporte de Cancún a Akumal">Transporte de Cancún a Akumal</a>
-            <a href="/traslado-aeropuerto-cancun-a-costa-mujeres" title="Transporte de Cancún a Costa Mujeres">Transporte de Cancún a Costa Mujeres</a>
-            <a href="/traslado-cancun-a-puerto-morelos" title="Traslado de Cancun a Puerto Morelos">Traslado de Cancun a Puerto Morelos</a>
+            <h4>Destinations</h4>
+            <a href="/cancun-airport-transportation" title="Cancun Airport Transportation">Cancun Airport Transportation</a>
+            <a href="/cancun-to-tulum-shuttle" title="Cancun to Tulum Shuttle">Cancun to Tulum Shuttle</a>
+            <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation from Cancun to Playa del Carmen">Transportation from Cancun to Playa del Carmen</a>
+            <a href="/cancun-to-akumal-shuttle" title="Cancun to Akumal Shuttle">Cancun to Akumal Shuttle</a>
         </div>
         <div>
-            <h4>Contáctanos</h4>
+            <h4>Contact us</h4>
             <div class="item">
-                <p>Mándanos un email a:</p>
+                <p>Send us an email to:</p>
                 <a href="mailto:{{ config('services.email') }}" title="{{ config('services.email') }}" class="link">{{ config('services.email') }}</a>
             </div>
             <div class="item">
-                <p>Desde USA / Canada</p>
+                <p>From USA / Canada</p>
                 <a href="tel:{{ App\Traits\GeneralTrait::clearPhone( config('services.phone.US') ) }}" title="{{ config('services.phone.US') }}" class="link">{{ config('services.phone.US') }}</a>                
                 <hr>
-                <p>México & Resto del mundo</p>
+                <p>México & Rest of the World</p>
                 <a href="tel:{{ App\Traits\GeneralTrait::clearPhone( config('services.phone.MX') ) }}" title="{{ config('services.phone.MX') }}" class="link">{{ config('services.phone.MX') }}</a>
             </div>
         </div>
@@ -48,7 +48,7 @@
         <div>
             <p>Copyrights © 2010-{{date("Y")}} All Rights Reserved.</p>
             <p>
-                <a href="/terminos-y-condiciones" title="Términos de Uso">Términos de Uso</a> | <a href="/privacidad" title="Aviso de Privacidad">Aviso de Privacidad</a>
+                <a href="/terms-and-conditions" title="Terms and Conditions">Terms and Conditions</a> | <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
             </p>
         </div>
         <div>

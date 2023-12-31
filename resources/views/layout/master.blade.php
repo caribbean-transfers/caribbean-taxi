@@ -61,21 +61,21 @@
                 "name": "Taxi Riviera Maya",
                 "priceRange": "$$",
                 "image": [
-                    "https://taxirivieramaya.com/assets/img/website/logo.webp"
+                    "https://caribbean-taxi.com/assets/img/website/logo.webp"
                 ],
-                "hasMap": "https://www.google.com/maps/place/Taxi+Riviera+Maya/@21.0723366,-86.8489683,17z/data=!4m6!3m5!1s0x8f4c2be10a05f649:0xc59c79538ab20351!8m2!3d21.0723316!4d-86.8463934!16s%2Fg%2F11sbd81d37?entry=tts&shorturl=1",       
-                "telephone": "+52 (998) 294.2389",
-                "url": "https://taxirivieramaya.com",
+                "hasMap": "https://www.google.com/maps/place/Caribbean+Taxi/@21.0383514,-86.8689682,15z/data=!4m6!3m5!1s0x8f4e81e477a28935:0x2613d52928408f18!8m2!3d21.0383514!4d-86.8689682!16s%2Fg%2F11l287r9yd?hl=es&entry=tts",       
+                "telephone": "+52 (998) 387.0238",
+                "url": "https://caribbean-taxi.com",
                 "sameAs": [
                     "https://www.facebook.com/taxirivieramayaMX",
                     "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d10857097-Reviews-Taxi_Riviera_Maya-Cancun_Yucatan_Peninsula.html"
                 ],
                 "address": {
                     "@type": "PostalAddress",
-                    "streetAddress": "Campestre Lol-be Alfredo V. Bonfil",
+                    "streetAddress": "Alfredo V. Bonfil",
                     "addressLocality": "Cancun",
                     "addressRegion": "Quintana Roo",
-                    "postalCode": "77560",
+                    "postalCode": "77565",
                     "addressCountry": "Mexico"
                 },                    
                 "openingHoursSpecification": {
@@ -85,10 +85,10 @@
                 },
                 "geo": {
                     "@type": "GeoCoordinates",
-                    "latitude": 21.07247674538035,
-                    "longitude": -86.84642559079789
+                    "latitude": 21.03858878502456,
+                    "longitude": 86.86897265996767
                 },                
-                "Logo": "https://taxirivieramaya.com/assets/img/website/logo.webp"
+                "Logo": "https://caribbean-taxi.com/assets/img/website/logo.webp"
             }
         </script>
         

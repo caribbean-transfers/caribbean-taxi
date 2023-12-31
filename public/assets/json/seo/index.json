@@ -2,19 +2,19 @@
     "home": {
         "languages": {
             "es": {
-                "path": "/",
-                "metas": {
-                    "title": "Taxi Riviera Maya | Traslados a toda la Riviera Maya",
-                    "description": "Taxi Riviera Maya, la mejor opción de taxi desde el Aeropuerto de Cancún hacía todas las áreas de la Riviera Maya, Zona Hotelera, Playa del Carmen, Tulum, Puerto Juárez, Puerto Morelos, Puerto Aventuras, Akumal y Chichén Itzá",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/es",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
+                }
+            },
+            "en": {
+                "path": "/",
+                "metas": {
+                    "title": "Caribbean Taxi | The Official Airport Transportation Company to all Riviera Maya",
+                    "description": "Explore the Riviera Maya in complete comfort with Caribbean Taxi, your reliable airport transportation partner. We offer safe and punctual transfers, ensuring a worry-free journey.",
+                    "keywords": "Caribbean taxi, airport shuttle, airport transportation, airport transfers, airport taxi, airport cab"
                 }
             }
         },
@@ -25,415 +25,369 @@
     "contact": {
         "languages": {
             "es": {
-                "path": "/contacto",
-                "metas": {
-                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
-                    "description": "Si deseas una cotización de un servicio especial de transporte, no dudes en consultarnos, somos tu mejor opción de transporte confiable desde el Aeropuerto Internacional de Cancún hacía todas las zonas de la Riviera Maya",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
-            }
-        },
-        "alternates": {
-            "es": "/contacto"            
-        }
-    },
-    "quotes": {
-        "languages": {
-            "es": {
-                "path": "/cotizaciones",
+            },
+            "en": {
+                "path": "/contact",
                 "metas": {
                     "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
                     "description": "Reserva los mejores traslados del Aeropuerto Internacional de Cancún a la Riviera Maya al mejor precio. ¡Reservar ahora!",
                     "keywords": ""
                 }
-            },
-            "en": {
-                "path": "/en",
+            }
+        },
+        "alternates": {
+            "es": "/"            
+        }
+    },
+    "quotes": {
+        "languages": {
+            "es": {
+                "path": "",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/quote",
+                "metas": {
+                    "title": "Get Personalized Quotes for Reliable Airport Transportation - Caribbean Taxi",
+                    "description": "Request a quote from Caribbean Taxi for personalized and budget-friendly airport transportation services. Our team is ready to provide you with a tailored solution that ensures secure, comfortable, and punctual transfers to your destination. ",
+                    "keywords": ""
+                }
             }
         },
         "alternates": {
-            "es": "/cotizaciones"            
+            "es": "/"            
         }
     },
     "privacy": {
         "languages": {
             "es": {
-                "path": "/privacidad",
-                "metas": {
-                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
-                    "description": "Si deseas una cotización de un servicio especial de transporte, no dudes en consultarnos, somos tu mejor opción de transporte confiable desde el Aeropuerto Internacional de Cancún hacía todas las zonas de la Riviera Maya",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/privacy-policy",
+                "metas": {
+                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
+                    "description": "Reserva los mejores traslados del Aeropuerto Internacional de Cancún a la Riviera Maya al mejor precio. ¡Reservar ahora!",
+                    "keywords": ""
+                }
             }
         },
         "alternates": {
-            "es": "/privacidad"            
+            "es": "/"            
         }
     },
     "terms": {
         "languages": {
             "es": {
-                "path": "/terminos-y-condiciones",
-                "metas": {
-                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
-                    "description": "Si deseas una cotización de un servicio especial de transporte, no dudes en consultarnos, somos tu mejor opción de transporte confiable desde el Aeropuerto Internacional de Cancún hacía todas las zonas de la Riviera Maya",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/terms-and-conditions",
+                "metas": {
+                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
+                    "description": "Reserva los mejores traslados del Aeropuerto Internacional de Cancún a la Riviera Maya al mejor precio. ¡Reservar ahora!",
+                    "keywords": ""
+                }
             }
         },
         "alternates": {
-            "es": "/terminos-y-condiciones"            
+            "es": "/"            
         }
     },
     "services": {
         "languages": {
             "es": {
-                "path": "/servicios",
-                "metas": {
-                    "title": "Transporte seguro del Aeropuerto de Cancún a toda la Riviera Maya",
-                    "description": "Nuestros servicios de traslados son ideales para parejas, familias, grupos, y ejecutivos empresariales, incluso para cualquier persona que desee llegar a su destino sin problemas, sin espera, sin paradas, sin compartir con otros, es por eso que nosotros somos su mejor opción.",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/services",
+                "metas": {
+                    "title": "Caribbean Taxi | Reliable Airport Transfers and Certified Transportation Services in the Riviera",
+                    "description": "Discover seamless airport transfers and certified services with Caribbean Taxi. From Cancun Airport to the beautiful Riviera Maya, enjoy punctual, regulated rates, and insured journeys.",
+                    "keywords": ""
+                }
             }
         },
         "alternates": {
-            "es": "/servicios"            
+            "es": "/"            
         }
     },
     "search-result": {
         "languages": {
             "es": {
-                "path": "/resultados",
+                "path": "/",
                 "metas": {
-                    "title": "Resultado de búsqueda | Taxi Riviera Maya",
+                    "title": "",
                     "description": "",
                     "keywords": ""
                 }
             },
             "en": {
-                "path": "/en",
+                "path": "/search-result",
                 "metas": {
-                    "title": "",
+                    "title": "Results | Caribbean Taxi",
                     "description": "",
                     "keywords": ""
                 }
             }
         },
         "alternates": {
-            "es": "/resultados"            
+            "es": "/"            
         }
     },
     "checkout": {
         "languages": {
             "es": {
-                "path": "/registro",
-                "metas": {
-                    "title": "Checkout | Taxi Riviera Maya",
-                    "description": "",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/checkout",
+                "metas": {
+                    "title": "",
+                    "description": "Checkout | Caribbean Taxi",
+                    "keywords": ""
+                }
             }
         },
         "alternates": {
-            "es": "/registro"            
+            "es": "/"            
         }
     },
     "processing": {
         "languages": {
             "es": {
-                "path": "/procesando",
+                "path": "/",
                 "metas": {
-                    "title": "Procesando | Taxi Riviera Maya",
+                    "title": "",
                     "description": "",
                     "keywords": ""
                 }
             },
             "en": {
-                "path": "/en",
+                "path": "/processing",
                 "metas": {
-                    "title": "",
+                    "title": "Processing | Caribbean Taxi",
                     "description": "",
                     "keywords": ""
                 }
             }
         },
         "alternates": {
-            "es": "/procesando"            
+            "es": "/"            
         }
     },
     "thank-you": {
         "languages": {
             "es": {
-                "path": "/gracias",
+                "path": "/",
                 "metas": {
-                    "title": "Gracias | Taxi Riviera Maya",
+                    "title": "",
                     "description": "",
                     "keywords": ""
                 }
             },
             "en": {
-                "path": "/en",
+                "path": "/thank-you",
                 "metas": {
-                    "title": "",
+                    "title": "Thank You | Caribbean Taxi",
                     "description": "",
                     "keywords": ""
                 }
             }
         },
         "alternates": {
-            "es": "/gracias"        
+            "es": "/"        
         }
     },
     "cancel": {
         "languages": {
             "es": {
-                "path": "/cancelar",
+                "path": "/",
                 "metas": {
-                    "title": "Gracias | Taxi Riviera Maya",
+                    "title": "",
                     "description": "",
                     "keywords": ""
                 }
             },
             "en": {
-                "path": "/en",
+                "path": "/cancel",
                 "metas": {
-                    "title": "",
+                    "title": "Sorry | Taxi Riviera Maya",
                     "description": "",
                     "keywords": ""
                 }
             }
         },
         "alternates": {
-            "es": "/cancelar"            
+            "es": "/"            
         }
     },
     "login": {
         "languages": {
             "es": {
-                "path": "/reserva",
+                "path": "/",
                 "metas": {
-                    "title": "Mi reservación | Taxi Riviera Maya",
+                    "title": "",
                     "description": "",
                     "keywords": ""
                 }
             },
             "en": {
-                "path": "/en",
+                "path": "/my-reservation",
                 "metas": {
-                    "title": "",
+                    "title": "Booking Information | Caribbean Taxi ",
                     "description": "",
                     "keywords": ""
                 }
             }
         },
         "alternates": {
-            "es": "/reserva"
+            "es": "/"
         }
     },
     "reservation-detail": {
         "languages": {
             "es": {
-                "path": "/mi-reservacion-detalle",
+                "path": "/",
                 "metas": {
-                    "title": "Mi reservación | Taxi Riviera Maya",
+                    "title": "",
                     "description": "",
                     "keywords": ""
                 }
             },
             "en": {
-                "path": "/en",
+                "path": "/my-reservation-detail",
                 "metas": {
-                    "title": "",
+                    "title": "My reservation detail | Caribbean Taxi",
                     "description": "",
                     "keywords": ""
                 }
             }
         },
         "alternates": {
-            "es": "/mi-reservacion-detalle"            
+            "es": "/"            
         }
     },
     "destination-cancun": {
         "languages": {
             "es": {
-                "path": "/taxi-aeropuerto-cancun",
-                "metas": {
-                    "title": "Taxi Aeropuerto Cancún | Servicio de Taxi privado,seguro y económico",
-                    "description": "Taxi Aeropuerto Cancún al precio más bajo por Taxi Riviera Maya, la empresa más confiable y segura de traslado en Cancún",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/cancun-airport-transportation",
+                "metas": {
+                    "title": "Cancun Airport Transportation | Caribbean Taxi The Official Cancun Airport Taxi company",
+                    "description": "Cancun Airport Transportation: Discover the Riviera Maya with Ease, Trusted Transfers by Caribbean Taxi for a Stress-Free Journey!",
+                    "keywords": "cancun airport transportation, cancun airport transfers, cancun airport shuttle, cancun transfers, cancun airport taxi, cancun taxi, cancun transportation, cancun shuttle"
+                }
             }
         },
         "alternates": {
-            "es": "/taxi-aeropuerto-cancun"            
+            "es": "/"
         }
     },
     "destination-tulum": {
         "languages": {
             "es": {
-                "path": "/traslado-de-cancun-tulum",
-                "metas": {
-                    "title": "Taxi de Cancún a Tulum seguro y confiable | Taxi Riviera Maya",
-                    "description": "Taxi de Cancún a Tulum al mejor precio sólo en Taxi Riviera Maya, Taxi a Tulum seguro y confiable",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/cancun-to-tulum-shuttle",
+                "metas": {
+                    "title": "Cancun to Tulum Shuttle at the best price | Shuttle from Cancun to Tulum Safe and Reliable in Caribbean Taxi ",
+                    "description": "Cancun to Tulum Shuttle:  Transportation with Ease, Trusted Tulum Taxi by Caribbean Taxi for a Stress-Free Shuttle from Cancun to Tulum!",
+                    "keywords": "shuttle from cancun to tulum, cancun to tulum shuttle, transportation from cancun airport to tulum, transfers from cancun to tulum, how to get from cancun to tulum, cancun to tulum transportation, shuttle in tulum"
+                }
             }
         },
         "alternates": {
-            "es": "/traslado-de-cancun-tulum"            
+            "es": "/"            
         }
     },
     "destination-pdc": {
         "languages": {
             "es": {
-                "path": "/transporte-cancun-a-playa-del-carmen",
-                "metas": {
-                    "title": "Transporte de Cancun a Playa del Carmen | Taxi Riviera Maya",
-                    "description": "Transporte de Cancún a Playa del Carmen seguro, confiable y al mejor precio, Taxi Riviera Maya, la empresa confiable de traslados",
-                    "keywords": ""
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
+            },
+            "en": {
+                "path": "/transportation-cancun-airport-to-playa-del-carmen",
+                "metas": {
+                    "title": "Transportation from Cancun Airport to Playa del Carmen | Caribbean Taxi ",
+                    "description": "Transportation from Cancun Airport to Playa del Carmen:  Transportation with Ease, Trusted Playa del Carmen Taxi by Caribbean Taxi for a Stress-Free Journey!",
+                    "keywords": "transportation from cancun to playa del carmen, transfers from cancun international airport to playa del carmen, transportation in playa del carmen, shuttle playa del carmen, transportation in playa del carmen, how to get to playa del Carmen, how to get to playa del carmen from cancun, cab from cancun to playa del carmen, playa del carmen taxi, private transportation in playa del carmen, what to do in playa del carmen"
+                }
             }
         },
         "alternates": {
-            "es": "/transporte-cancun-a-playa-del-carmen"            
+            "es": "/"            
         }
     },
     "destination-akumal": {
         "languages": {
             "es": {
-                "path": "/transporte-cancun-a-akumal",
-                "metas": {
-                    "title": "Transporte de Cancún a Akumal | Traslado a Akumal | Taxi Riviera Maya",
-                    "description": "Transportación de Cancún a Akumal  | La mejor manera de ir desde el Aeropuerto de Cancún a su Hotel en Akumal. El Transporte a Akumal  por Taxi Riviera Maya le ofrece el máximo confort y seguridad en su viaje.",
-                    "keywords": "transporte cancun Akumal,transfer aeropuerto cancun a Akumal,traslado cancun Akumal,taxi cancun Akumal, transportacion de cancun a akumal, akumal a cancun, taxi Akumal"
-                }
-            },
-            "en": {
-                "path": "/en",
+                "path": "/",
                 "metas": {
                     "title": "",
                     "description": "",
                     "keywords": ""
                 }
-            }
-        },
-        "alternates": {
-            "es": "/transporte-cancun-a-akumal"            
-        }
-    },
-    "destination-costa-mujeres": {
-        "languages": {
-            "es": {
-                "path": "/traslado-aeropuerto-cancun-a-costa-mujeres",
-                "metas": {
-                    "title": "Traslado del Aeropuerto de Cancún a Costa Mujeres | Taxi Riviera Maya",
-                    "description": "Traslado del Aeropuerto de Cancún a Costa Mujeres al mejor precio. Transportación a Costa Mujeres segura y confiable por Taxi Riviera Maya",
-                    "keywords": "traslado a costa mujeres,traslado aeropuerto cancun a costa mujeres, transporte aeropuerto cancun a costa mujeres, taxi de cancun a costa mujeres, taxi a costa mujeres, transporte a costa mujeres"
-                }
             },
             "en": {
-                "path": "/en",
+                "path": "/cancun-to-akumal-shuttle",
                 "metas": {
-                    "title": "",
-                    "description": "",
-                    "keywords": ""
+                    "title": "Cancun to Akumal Shuttle at the best price | Safe and Reliable Shuttle from Cancun to Akumal with Caribbean Taxi ",
+                    "description": "Cancun to Akumal Shuttle at the lower prices in Riviera Maya. Caribbean Taxi ensures a stress-free transfer, combining comfort and punctuality in your transportation to Akumal.",
+                    "keywords": "Transportation from cancun to akumal, transfers from cancun international airport to akumal, transportation in akumal, shuttle akumal, transportation in akumal, how to get to akumal, how to go to akumal from cancun, taxi from cancun to akumal, akumal cab, private transportation in Akumal"
                 }
             }
         },
         "alternates": {
-            "es": "/traslado-aeropuerto-cancun-a-costa-mujeres"            
-        }
-    },
-    "destination-puerto-morelos": {
-        "languages": {
-            "es": {
-                "path": "/traslado-cancun-a-puerto-morelos",
-                "metas": {
-                    "title": "Traslado desde el Aeropuerto de Cancún a Puerto Morelos | Traslado a Puerto Morelos",
-                    "description": "Traslado del Aeropuerto de Cancún a Puerto Morelos. Transporte en Puerto Morelos seguro, cómodo y confiable al mejor precio",
-                    "keywords": "transporte cancun puerto morelos,transfer aeropuerto cancun a puerto morelos,traslado cancun puerto morelos,taxi cancun puerto morelos, taxi puerto morelos, traslado a puerto morelos, transporte a puerto morelos"
-                }
-            },
-            "en": {
-                "path": "/en",
-                "metas": {
-                    "title": "",
-                    "description": "",
-                    "keywords": ""
-                }
-            }
-        },
-        "alternates": {
-            "es": "/traslado-cancun-a-puerto-morelos"
+            "es": "/"            
         }
     }
 }

@@ -14,21 +14,21 @@
 
     <div class="gray-container">
         <div class="container">
-            <h1>Datos de reservación</h1>
+            <h1>Reservation Detail</h1>
             <img src="/assets/img/svg/circle.svg" width="120" height="120" alt="" title="" loading="lazy">
             <div class="items">
                 <div class="left">
-                    <h3>Hola, {{ $rez['client']['first_name'] }} {{ $rez['client']['last_name'] }}</h3>
+                    <h3>Hi, {{ $rez['client']['first_name'] }} {{ $rez['client']['last_name'] }}</h3>
                     <ul>
                         <li class="one">{{ $rez['client']['phone'] }}</li>
                         <li class="two">{{ $rez['client']['email'] }}</li>
                     </ul>
                 </div>
                 <div class="right">
-                    <h3>Estatus de tu reservación</h3>
+                    <h3>Reservation status</h3>
                     <div>
                         <span>{{ $rez['status'] }}</span>
-                        <a href="/mi-reservacion-detalle?logout=true">Cerrar sesión</a>
+                        <a href="/my-reservation-detail?logout=true">Log out</a>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@
         <div class="left">
             
             <div class="rez-status">
-                <p>Estatus de tu reservación</p>
+                <p>Reservation status</p>
                 <p>{{ $rez['status'] }}</p>
             </div>
 
@@ -47,32 +47,32 @@
             @foreach ($rez['items'] as $key => $value)
                 <div class="items">
                     <div class="element">
-                        <p>Código de reservación:</p>
+                        <p>Reservation code:</p>
                         <p>{{ $key  }}</p>
                     </div>    
                     <div class="element">
-                        <p>Servicio:</p>
+                        <p>Service:</p>
                         <p>{{ $value['service_type_name']  }}</p>
                     </div>
                     <div class="element">
-                        <p>Pasajeros:</p>
+                        <p>Passengers:</p>
                         <p>{{ $value['passengers']  }}</p>
                     </div>
                     <div class="element">
-                        <p>Desde</p>
+                        <p>From</p>
                         <p>{{ $value['from']['name']  }}</p>
                     </div>
                     <div class="element">
-                        <p>Hacia</p>
+                        <p>To</p>
                         <p>{{ $value['to']['name']  }}</p>
                     </div>
                     <div class="element">
-                        <p>Fecha de recogida:</p>
+                        <p>Pick-up date:</p>
                         <p>{{ $value['pickup']  }}</p>
                     </div>
                     @if($value['is_round_trip'] == true)
                         <div class="element">
-                            <p>Fecha de regreso:</p>
+                            <p>Return date:</p>
                             <p>{{ $value['departure_pickup']  }}</p>
                         </div>
                     @endif
@@ -81,10 +81,10 @@
         </div>
 
         <div class="right">
-            <h2>Métodos de pago</h2>
+            <h2>Payment methods</h2>
             <div class="resume">
                 <h2>Total: <span>${{ number_format($rez['sales']['total'],2) }} {{ $rez['config']['currency'] }}</span></h2>
-                <p>X {{ sizeof($rez['items']) }} servicios de transportación privada</p>
+                <p>X {{ sizeof($rez['items']) }} private transportation services</p>
             </div>
             <div class="credit-cards">
                 <img src="/assets/img/checkout/stripe.png" alt="Guaranteed safe and secure checkout" title="Guaranteed safe and secure checkout">
@@ -93,7 +93,7 @@
                 @if( $payment_link['PAYPAL'] )
                 <a href="{{ $payment_link['PAYPAL'] }}" class="stripe" target="_blank">
                     <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjRweCIgaGVpZ2h0PSIxOHB4IiB2aWV3Qm94PSIwIDAgMjQgMTgiIHhtbG5zPSJodHRwOiYjeDJGOyYjeDJGO3d3dy53My5vcmcmI3gyRjsyMDAwJiN4MkY7c3ZnIj48ZyBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMy4wMDAwMDAsIC02LjAwMDAwMCkiIGZpbGw9IiNmZmZmZmYiIGZpbGwtcnVsZT0ibm9uemVybyI+PHBhdGggZD0iTTguMjc1MjEzMzgsMTIuNTEyMjY1MyBDNy45MzAwMzU0MiwxMi41MTIyNjUzIDcuNjUwMjEzMzgsMTIuMjMyNDQzMiA3LjY1MDIxMzM4LDExLjg4NzI2NTMgQzcuNjUwMjEzMzgsMTEuNTQyMDg3MyA3LjkzMDAzNTQyLDExLjI2MjI2NTMgOC4yNzUyMTMzOCwxMS4yNjIyNjUzIEwyNC43ODc5MDQyLDExLjI2MjI2NTMgQzI1LjU5NTU5MzksMTEuMjYyMjY1MyAyNi4yNSwxMS45MTc1OTA1IDI2LjI1LDEyLjcyNTUzNjggTDI2LjI1LDIyLjI4NjcyODQgQzI2LjI1LDIzLjA5NDY3NDggMjUuNTk1NTkzOSwyMy43NSAyNC43ODc5MDQyLDIzLjc1IEw1LjIxMjMxMzAyLDIzLjc1IEM0LjQwNDYyMzI1LDIzLjc1IDMuNzUsMjMuMDk0Njc0OCAzLjc1LDIyLjI4NjczOTcgTDMuNzUsNy43MTMyNzE1MiBDMy43NSw2LjkwNTMyNTE4IDQuNDA0NDA2MDgsNi4yNSA1LjIxMjI3MjEyLDYuMjUgTDI0Ljc4ODA2NjQsNi4yNTU1MjE2MyBDMjUuNTk1NjA3OSw2LjI1NTczMTQ3IDI2LjI1LDYuOTEwOTk1MDcgMjYuMjUsNy43MTg3MDM2MiBMMjYuMjUsOS4yMzU3NzE2MSBDMjYuMjUsOS41ODA5NDk1OCAyNS45NzAyNjc1LDkuODYwODExNjggMjUuNjI1MDg5NSw5Ljg2MDg2MTEyIEMyNS4yNzk5MTE1LDkuODYwOTEwNTUgMjUuMDAwMDQ5NCw5LjU4MTEyODYgMjUsOS4yMzU5NTA2MyBMMjQuOTk5NzgyNyw3LjcxODc5MzEzIEMyNC45OTk3ODI3LDcuNjAwODMxODkgMjQuOTA0NjYxMSw3LjUwNTU1MTk3IDI0Ljc4NzcyNzgsNy41MDU1MjE1OCBMNS4yMTIwOTU4Myw3LjQ5OTk5OTk4IEM1LjA5NTE1NTA2LDcuNDk5OTk5OTggNSw3LjU5NTI4ODY4IDUsNy43MTMyNjAyOCBMNS4wMDAyMTcxOCwyMi4yODY3Mjg0IEM1LjAwMDIxNzE4LDIyLjQwNDcxMTMgNS4wOTUzNzIyMywyMi41IDUuMjEyMzEzMDIsMjIuNSBMMjQuNzg3OTA0MiwyMi41IEMyNC45MDQ4NDUsMjIuNSAyNSwyMi40MDQ3MTEzIDI1LDIyLjI4NjcyODQgTDI1LDEyLjcyNTUzNjggQzI1LDEyLjYwNzU1NCAyNC45MDQ4NDQ5LDEyLjUxMjI2NTMgMjQuNzg3OTA0MiwxMi41MTIyNjUzIEw4LjI3NTIxMzM4LDEyLjUxMjI2NTMgWiIgaWQ9IlN0cm9rZS0xIj48L3BhdGg+PC9nPjwvZz48L3N2Zz4"> 
-                    <span>Tarjeta de Crédito / Débito</span>
+                    <span>Credit / Debit Card</span>
                 </a>
                 @endif
                 @if( $payment_link['STRIPE'] )

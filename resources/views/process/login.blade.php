@@ -23,26 +23,26 @@
     @endphp
     <div class="blue-container">
         <div class="container">
-            <h1>DATOS DE RESERVACIÓN</h1>
+            <h1>BOOKING INFORMATION</h1>
         </div>
     </div>
 
     <div class="container">
         <form action="/reserva" method="POST">            
-            <h2>MI RESERVACIÓN</h2>
+            <h2>MY RESERVATION</h2>
             <div>
-                <label>CÓDIGO DE RESERVACIÓN:</label>
+                <label>RESERVATION CODE:</label>
                 <input type="text" class="form-control" name="code" value="{{ $item['code'] }}" required>
             </div>
             <div>
-                <label>EMAIL:</label>
+                <label>E-MAIL:</label>
                 <input type="email" class="form-control" name="email" value="{{ $item['email'] }}" required>
             </div>
             @csrf
-            <button type="submit">BUSCAR</button>
+            <button type="submit">SEARCH</button>
             @if($item['error'] == true)
                 <div class="badge-error">
-                    <p>Código de reservación o email incorrectos</p>
+                    <p>Incorrect reservation code or email</p>
                 </div>
             @endif
         </form>

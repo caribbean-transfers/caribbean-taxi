@@ -8,18 +8,18 @@
         {
           "@context": "https://schema.org/",
           "@type": "Product",
-          "name": "Taxi Privado en Cancun",
+          "name": "Cancun Airport Taxi",
           "image": [
-            "https://taxirivieramaya.com/assets/img/schema/1x1.jpg",
-            "https://taxirivieramaya.com/assets/img/schema/4x3.jpg",
-            "https://taxirivieramaya.com/assets/img/schema/16x9.jpg"
+            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
+            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
+            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
            ],
-          "description": "Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.",
+          "description": "Cab service to and from Cancun Airport, the service is provided in a VW Transporter for up to 8 passengers. Available for the entire Riviera Maya.",
           "sku": "019001",
           "mpn": "029001",
           "brand": {
             "@type": "Brand",
-            "name": "Taxi Riviera Maya"
+            "name": "Caribbean Taxi"
           },
           "review": {
             "@type": "Review",
@@ -40,9 +40,9 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://taxirivieramaya.com/taxi-aeropuerto-cancun",
-            "priceCurrency": "MXN",
-            "price": 539,
+            "url": "https://caribbean-taxi.com/cancun-airport-transportation",
+            "priceCurrency": "USD",
+            "price": 29,
             "priceValidUntil": "2024-12-31",
             "itemCondition": "https://schema.org/UsedCondition",
             "availability": "https://schema.org/InStock"
@@ -69,8 +69,8 @@
     <div class="heading">
         <div class="container">
             <div class="top">
-                <h1>Taxi Aeropuerto Cancún seguro y confiable</h1>
-                <p>Más de una década brindando servicios de taxi desde y hacia el Aeropuerto de Cancún, somos la elección segura y confiable.</p>
+                <h1>The best Cancun Airport Taxi only in Caribbean Taxi</h1>
+                <p>Best prices in Cancun Airport Transportation to any destination or hotel are here!</p>
             </div>
             <div class="bottom">                
                 <x-bookingbox/>
@@ -80,22 +80,22 @@
 
     <div class="container banner_container">
         <div class="left">
-            <h2>Taxi Riviera Maya, la mejor empresa de Taxi en el Aeropuerto de Cancún</h2>
-            <p>En Taxi Riviera Maya, nos enorgullece ofrecer las tarifas m&aacute;s bajas en Canc&uacute;n, garantizando a nuestros clientes una excelente relaci&oacute;n calidad-precio. Nuestro equipo de conductores profesionales y veh&iacute;culos cuidadosamente inspeccionados aseguran un viaje c&oacute;modo y seguro desde y hacia el Aeropuerto de Canc&uacute;n.</p>
-            <p>Nos destacamos por nuestra puntualidad, llegando siempre a tiempo para que tus planes de viaje se desarrollen sin contratiempos. Experimentar&aacute;s un servicio de taxi aeropuerto Canc&uacute;n confiable, seguro y que se adapta a tu presupuesto. Nuestra dedicaci&oacute;n a la satisfacci&oacute;n del cliente nos impulsa a ser la opci&oacute;n n&uacute;mero uno en traslados privados en la Riviera Maya.</p>
-            <p>Conf&iacute;a en nosotros para hacer de tu viaje una experiencia sin preocupaciones. Reserva tu Taxi Aeropuerto Canc&uacute;n con nosotros hoy mismo y descubre la excelencia en traslados al mejor precio.</p>
+            <h2>Caribbean Taxi: The Cancun Airport Taxi Certified Company </h2>
+            <p>Experience top-notch transfers with Caribbean Taxi, a certified company for Cancun Airport Transportation and Cancun Airport Taxi services. We take pride in delivering a reliable and stress-free experience, ensuring your vacation begins on the best note possible. With our transparent and regulated rates, you can plan your budget ahead of time, avoiding any unwelcome surprises upon reaching your destination.</p>
+            <p>Our unwavering commitment to punctuality sets us apart. Our professional drivers will be there for you on time, meticulously monitoring your flight for any changes in arrival time. Recognizing the importance of flexibility and confidence in travel, we offer the option to pay upon arrival, providing assurance that your service will be ready and waiting without any pre-trip concerns.</p>
+            <p>Safety is our paramount concern. In addition to flight monitoring and regulated rates, we include traveler's insurance during your transfer, offering complete peace of mind throughout your vacation. Choose Caribbean Taxi for a reliable and customer-centric experience that ensures your transfer is as enjoyable as your vacation destinations. Travel with us and embark on your vacation with a positive and stress-free start!</p>
         </div>
         <div class="right">
             <picture>
                 <source srcset="/assets/img/home/taxi-cancun-aeropuerto-banner.webp" type="image/webp">
-                <img src="/assets/img/home/taxi-cancun-aeropuerto-banner.jpg" alt="La mejor empresa de taxi en la riviera maya" title="La mejor empresa de taxi en la riviera maya" loading="lazy" width="573" height="374">
+                <img src="/assets/img/home/taxi-cancun-aeropuerto-banner.jpg" alt="Passenger van with Caribbean Taxi branding" title="Passenger van with Caribbean Taxi branding" loading="lazy" width="573" height="374">
             </picture>
         </div>
     </div>
 
     <div class="container highlights_items">
         <div class="top">
-            <h2>Servicio oficial de taxi del aeropuerto de Cancún</h2>
+            <h2>Reasons to choose caribbean taxi</h2>
         </div>
         <div class="bottom">
 
@@ -103,33 +103,33 @@
                 <div class="top">
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#building"></use></svg>
                     <div>
-                        <p>Servicios a hoteles</p>
-                        <h2>TAXI A CUALQUIER HOTEL EN LA RIVIERA MAYA</h2>
+                        <p>Best Cancun Airport Transportation</p>
+                        <h2>TRANSFER FROM CANCUN AIRPORT</h2>
                     </div>
                 </div>
-                <p>Experimenta el confort y la confiabilidad con nuestro servicio exclusivo de traslado a hoteles. Ya sea que tu destino sea un lujoso resort, un acogedor hotel boutique o cualquier otro alojamiento en la Riviera Maya, estamos siempre listos para llevarte a tu destino con seguridad y estilo. ¡Descubre el placer de llegar a tu hotel sin preocupaciones y al mejor precio!</p>
+                <p>Explore seamless transfers to every hotel or destination across the Riviera Maya. Our transfer services extend to every corner of this breathtaking region. If it's on the map, rest assured, we'll get you there with ease and comfort.</p>
             </div>
 
             <div class="item van">
                 <div class="top">
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#van"></use></svg>
                     <div>
-                        <p>Seguridad y Comfort en todo momento</p>
-                        <h2>TRASLADO CÓMODO, SEGURO Y CONFIABLE</h2>
+                        <p>Always Safe & Reliable</p>
+                        <h2>RELIABLE AND SAFE TAXI</h2>
                     </div>
                 </div>
-                <p>Disfruta de un traslado cómodo, seguro y confiable con las mejores camionetas en la Riviera Maya. Nuestros vehículos, espaciosos y seguros, están conducidos por profesionales capacitados y orientados al servicio. Monitoreamos todo tu viaje para garantizar tu seguridad y tranquilidad en cada momento. Tu comodidad es nuestra prioridad.</p>
+                <p>Experience the finest transfer service to any destination in the Riviera Maya, characterized by comfort, safety, and reliability. Our skilled drivers are dedicated to providing an awesome service, ensuring your journey is not just a transfer but a delightful experience.</p>
             </div>
 
             <div class="item airport">
                 <div class="top">
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#plane-check"></use></svg>
                     <div>
-                        <p>Servicio Oficial de Taxi del Aeropuerto de Cancún</p>
-                        <h2>EMPRESA CERTIFICADA POR EL AEROPUERTO</h2>
+                        <p>Official Cancun Airport Transportation Company</p>
+                        <h2>OFFICIAL AND CERTIFIED COMPANY</h2>
                     </div>
                 </div>
-                <p>Opta por un traslado seguro del aeropuerto con una empresa certificada y autorizada para operar en las instalaciones aeroportuarias. Con todos los permisos en regla, estamos siempre ahí para llevarte directo a disfrutar de la Riviera Maya sin complicaciones. Inicia tus vacaciones con la tranquilidad de un viaje sin estrés desde el momento en que aterrizas.</p>
+                <p>As the authorized transportation company at Cancun Airport, we possess all the necessary permits to operate seamlessly across every hotel, destination, and tourist site in Cancun and the Riviera Maya. This ensures a hassle-free and smooth experience for our customers, with no complications or inconveniences throughout their journey. Choose us for reliable and officially sanctioned transportation, guaranteeing peace of mind from the moment you land at Cancun Airport.</p>
             </div>
 
         </div>
@@ -138,22 +138,20 @@
     <div class="container gray-container-information">
         <picture>
             <source srcset="/assets/img/home/taxirivi-cliente.webp" type="image/webp">
-            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Servicio confiable de Taxi del Aeropuerto de Cancún" title="Servicio confiable de Taxi del Aeropuerto de Cancún" loading="lazy" width="352" height="258">
+            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Cancun Airport Taxi Service" title="Reliable Cancun Airport Taxi Service" loading="lazy" width="352" height="258">
         </picture>
         <div>
-            <h2>¡Descubre la Excelencia en Transporte con Taxi Riviera Maya!</h2>
-            <p>En Taxi Riviera Maya, nos enorgullece ser la opci&oacute;n l&iacute;der en servicios de taxi en la hermosa regi&oacute;n de la Riviera Maya. Nos destacamos por nuestro firme compromiso con la satisfacci&oacute;n del cliente y la prestaci&oacute;n de servicios de taxi en el aeropuerto de Canc&uacute;n de primera clase.</p>
-            <p>En Taxi Riviera Maya, comprendemos que cada viajero es &uacute;nico. Por eso, ofrecemos una amplia gama de opciones de transporte en canc&uacute;n para adaptarnos a cualquier presupuesto. Ya sea que prefieras un taxi econ&oacute;mico o un lujoso veh&iacute;culo privado, tenemos la soluci&oacute;n perfecta para ti.</p>
-            <p>Nuestros conductores conocen cada rinc&oacute;n de la Riviera Maya. Comprometidos con brindar un servicio excepcional, te llevar&aacute;n a tu destino de la manera m&aacute;s eficiente y segura, proporcion&aacute;ndote informaci&oacute;n valiosa sobre la zona en el camino.</p>
-            <p>En Taxi Riviera Maya, creemos que tu viaje debe ser tan c&oacute;modo como sea posible. Nuestra flota de veh&iacute;culos est&aacute; equipada con las &uacute;ltimas comodidades y tecnolog&iacute;a, asegurando que disfrutes de un viaje relajante y sin estr&eacute;s.</p>
-            <p>Tu comodidad es nuestra prioridad. Con opciones de reserva en l&iacute;nea, planificar tu transporte con nosotros es r&aacute;pido y f&aacute;cil. No importa la hora de tu llegada, estamos listos para atenderte con el mejor servicio de taxi en el aeropuerto de Canc&uacute;n.</p>
-            <a href="#" class="btn" title="Reserva Ahora">RESERVA AHORA</a>
+            <h2>Discover unrivaled transportation service in Cancun with the most exceptional customer service!</h2>
+            <p>Caribbean Taxi stands out in delivering a comprehensive and welcoming transfer service tailored to exceed your expectations. Our commitment lies in providing a travel experience that not only prioritizes efficiency and safety but also adds a touch of warmth and personalization for each of our valued clients.</p>
+            <p>Easily identifiable by our distinctive orange uniforms, you'll find us at Cancun Airport, ready to make your arrival both welcoming and hassle-free. At Caribbean Taxi, our dedicated team ensures that your journey from the airport to your destination is seamless and enjoyable.</p>
+            <p>Whether you're embarking on a vacation or a business trip, entrust Caribbean Taxi for a transfer service that places your comfort and satisfaction at the forefront. Experience the distinction of traveling with us, where complete and friendly service is not just a commitment but a promise. We eagerly anticipate welcoming you at the airport, ready to take you to your destination with a genuine smile and utmost professionalism!</p>
+            <a href="#" class="btn" title="BOOK NOW">BOOK NOW</a>
         </div>
     </div>
 
     <div class="container our_services">
         <div class="top">
-            <h2>Servicios de Taxi en el Aeropuerto de Cancún</h2>
+            <h2>Our transportation services</h2>
         </div>
         <div class="bottom">
 
@@ -161,40 +159,40 @@
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/van.webp" type="image/webp">
-                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Taxi Aeropuerto Cancún Privado" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Private Transportation" loading="lazy" width="343" height="196">
                     </picture>
                 </div>
-                <h3>Taxi Aeropuerto Cancún Privado</h3>
+                <h3>Private Transportation</h3>
                 <div>
-                    <p>Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.</p>
+                    <p>This transportation is available for all our destinations, the service is provided in a VW Transporter for up to 8 passengers (children/infants are considered as passengers).</p>
                 </div>
-                <p>Desde <span>$539 MXN</span></p>
+                <p>From <span>$29 USD</span></p>
             </div>
             <div>
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/suburban.webp" type="image/webp">
-                        <img src="/assets/img/services/suburban.png" alt="Cevrolet Suburban" title="Transporte de Lujo" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/suburban.png" alt="Cevrolet Suburban" title="Luxury Transportation" loading="lazy" width="343" height="196">
                     </picture>
                 </div>                
-                <h3>Transporte de lujo</h3>
+                <h3>Luxury Transportation</h3>
                 <div>
-                    <p>Este transporte está disponible para todos nuestros destinos, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. (Los niños/infantes son considerados como pasajeros).</p>
+                    <p>This transportation is available for all our destinations, the service is provided in a Suburban for up to 5 passengers (children/infants are considered as passengers).</p>
                 </div>
-                <p>Desde <span>$1,404 MXN</span></p>
+                <p>From <span>$78 USD</span></p>
             </div>
             <div>
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/crafter.webp" type="image/webp">
-                        <img src="/assets/img/services/crafter.png" alt="VW Crafter" title="Transporte para grupos" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/crafter.png" alt="VW Crafter" title="Group Transportation" loading="lazy" width="343" height="196">
                     </picture>
                 </div>
-                <h3>Transporte para grupos</h3>
+                <h3>Group Transportation</h3>
                 <div>
-                    <p>Este transporte está disponible para todos nuestros destinos, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. (Los niños/infantes son considerados como pasajeros).</p>
+                    <p>This transportation is available for all our destinations, the service is provided in a VW Transporter for up to 12 passengers (children/infants are considered as passengers).</p>
                 </div>
-                <p>Desde <span>$630 MXN</span></p>
+                <p>From <span>$78 USD</span></p>
             </div>
 
         </div>
@@ -204,46 +202,46 @@
         <div class="container items-highlights">
             <div>
                 <p>21k+</p>
-                <p>Clientes felices</p>
+                <p>Happy customers</p>
             </div>
             <div>
                 <p>21517</p>
-                <p>Traslados operados</p>
+                <p>Operated transfers</p>
             </div>
             <div>
                 <p>10622</p>
-                <p>Destinos disponibles</p>
+                <p>Available destinations</p>
             </div>
             <div>
                 <p>24Hrs</p>
-                <p>Horario de servicio</p>
+                <p>Service hours</p>
             </div>
         </div>
     </div>
 
     <div class="container rates_information">
         <div class="top">
-            <h2>TARIFAS POR ZONA DE SERVICIO DE TAXI</h2>
+            <h2>TAXI SERVICE ZONE RATES</h2>
         </div>
         <div class="bottom">
             <table class="table table-striped table-responsive">
                 <caption>
-                    Precios de Servicios de Taxi por Destino
+                    Taxi Service Prices by Destination
                 </caption>
                 <thead>
                     <tr>
-                        <th rowspan="2" scope="col" class="destino">Destino</th>
+                        <th rowspan="2" scope="col" class="destino">Destination</th>
                         <th colspan="2">
-                            Taxi Privado<br>
-                            1-8 pasajeros
+                            Private Taxi<br>
+                            1-8 passengers
                         </th>
                         <th colspan="2">
-                            Taxi de Lujo<br>
-                            1-5 pasajeros
+                            Luxury Taxi<br>
+                            1-5 passengers
                         </th>
                         <th colspan="2">
-                            Taxi para Grupos<br>
-                            1-16 pasajeros
+                            Taxi for Groups<br>
+                            1-16 passengers
                         </th>
                     </tr>
                     <tr>
@@ -258,174 +256,174 @@
                 <tbody>
                     <tr>
                         <td><strong>Cancun Downtown</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Cancun Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,079 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,079 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Morelos</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$990 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,880 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,080 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,060 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,880 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,660 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$990 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,880 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,080 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,060 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,880 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,660 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Playa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Juárez</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$850 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,600 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$850 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,600 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,800 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,600 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Playa del Carmen</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,500 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,700 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,900 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,900 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,700 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Costa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,718 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Cozumel</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$5,700 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,400 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,900 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$5,700 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,400 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Aventuras</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,600 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,300 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Akumal</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$7,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,800 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,500 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,700 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$7,300 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,900 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Mahahual</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,600 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$11,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,404 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Holbox</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,200 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$10,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$10,620 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$20,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$10,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$20,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,200 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$10,300 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$10,620 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$20,900 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$10,300 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$20,500 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Valladolid</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$7,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$15,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$15,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$31,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$15,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$7,800 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$15,500 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$15,700 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$31,404 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$15,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Merida</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$9,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$17,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$17,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$32,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$17,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$9,800 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$17,500 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$17,700 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$32,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$17,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Bacalar</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,404 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,500 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Coba</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Arco</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                 </tbody>
             </table>            
@@ -436,16 +434,16 @@
         <div class="mask"></div>
         <div class="container">
             <div class="top">
-                <h2>Comentarios de nuestros clientes</h2>
-                <h3>Descubra por qué nos eligen nuestros clientes</h3>
+                <h2>Comments from our customers</h2>
+                <h3>Discover why our customers choose us</h3>
             </div>
             <div class="bottom">
                 <div class="write_review">
                     <div>
                         <p class="rating">Rating</p>
-                        <p class="rating_count">4.7 <span>4107 comentarios</span></p>
+                        <p class="rating_count">4.7 <span>4107 comments</span></p>
                     </div>
-                    <a title="Escribir comentario" target="_blank" href="https://g.page/r/CaJOK2AW7uT6EB0/review">Escribir comentario</a>                  
+                    <a title="Escribir comentario" target="_blank" href="https://g.page/r/CRiPQCgp1RMmEB0/review">Write a comment</a>                  
                 </div>
                 <div class="items">
 
@@ -453,18 +451,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/4.webp" type="image/webp">
-                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Taxi Riviera Maya" title="CARLOS R." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Caribbean Taxi" title="Maria G" loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>CARLOS R.</p>
+                                <p>Maria G</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Fue un traslado sin preocupaciones: chofer profesional y amable, camioneta espaciosa, asientos cómodos y tarifa justa. De lo mejor en Cancún.</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>Embarked on an exceptional transfer journey with Caribbean Taxi at Cancun Airport! The distinctive orange booth was a beacon of relief upon arrival, ensuring a seamless experience. The driver, dressed in the unmistakable orange uniform, greeted us warmly. The ride was not only comfortable but also came with a fair fare, making Caribbean Taxi the ultimate choice for reaching any destination from Cancun Airport.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>
 
@@ -472,18 +470,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/1.webp" type="image/webp">
-                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Taxi Riviera Maya" title="MARIA H." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Caribbean Taxi" title="Julia T." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>MARIA H.</p>
+                                <p>Julia T.</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Increíble experiencia de traslado. Puntuales, camioneta impecable, asientos cómodos. Relación calidad-precio excepcional, Taxi Riviera Maya es la elección perfecta en Cancún.</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>Flawless transfer service awaited me with Caribbean Taxi at Cancun Airport! The effortless discovery of the orange uniform affirmed my decision's correctness. Punctuality surpassed expectations, the vehicle gleamed in top-notch condition, and the value for money was unparalleled. Caribbean Taxi not only excels in service but also in the simplicity of locating them at Cancun Airport, setting them apart.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>
 
@@ -491,18 +489,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/3.webp" type="image/webp">
-                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Taxi Riviera Maya" title="MIGUEL S." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Caribbean Taxi" title="Eleanor S." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>MIGUEL S.</p>
+                                <p>Eleanor S.</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Servicio impecable: puntualidad, vehículo limpio, asientos cómodos. Precio asequible, calidad inmejorable. Recomendado sin duda.</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>My enthusiastic recommendation goes to Caribbean Taxi. From touchdown at Cancun Airport, the distinctive orange booth stood out, making it effortlessly noticeable. The fare was reasonable, and the service showcased a commendable quality. Undoubtedly the premier choice, their presence at Cancun Airport significantly streamlined the entire process.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>    
 
@@ -510,18 +508,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/2.webp" type="image/webp">
-                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Taxi Riviera Maya" title="SOFÍA G." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Caribbean Taxi" title="Daniela M." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>SOFÍA G.</p>
+                                <p>Daniela M.</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>¡Viví una odisea en el aeropuerto! Pero, sorprendentemente, mi traslado fue la luz al final del túnel. El chofer, súper amable y el precio justo, calidad de película. ¡Recomendado totalmente!</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>Amidst the airport challenges, Caribbean Taxi emerged as a relieving presence. Their easily recognizable booth and orange uniform, coupled with the friendly driver and fair fare, made the experience worthwhile. Highly endorsed for reaching any destination from Cancun Airport, especially for those who appreciate the convenience of locating them effortlessly at the airport.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>      
 
@@ -532,18 +530,17 @@
 
     <div class="container how_to_information">
         <div class="top">
-            <h2>Servicios de transporte en el aeropuerto de cancún</h2>
+            <h2>Where to Find Us at Cancun Airport?</h2>
         </div>
         <div class="bottom">
             <div class="left">
-                <p>Al arribar al Aeropuerto de Canc&uacute;n, te encuentras con diversas opciones de transporte para llegar a tu destino. Entre las alternativas m&aacute;s comunes se encuentran los taxis del aeropuerto, traslados privados y el servicio de autobuses ADO. Los taxis del aeropuerto son una opci&oacute;n conveniente para traslados inmediatos, aunque es posible que enfrentes esperas en horas pico. Por otro lado, los traslados privados ofrecen un servicio personalizado, evitando tiempos de espera y llev&aacute;ndote directamente a tu destino desde la terminal de llegadas.</p>
-                <p>El servicio de autobuses ADO es una opci&oacute;n m&aacute;s econ&oacute;mica, pero suele implicar tiempos de viaje m&aacute;s largos, ya que realiza paradas en varios puntos antes de llegar a tu destino y a&uacute;n as&iacute; no llegan hasta hoteles espec&iacute;ficos.</p>
-                <p>Cada opci&oacute;n tiene sus ventajas y consideraciones. Si valoras la inmediatez y la comodidad, un taxi del aeropuerto o un traslado privado pueden ser ideales. En cambio, si buscas una opci&oacute;n m&aacute;s econ&oacute;mica y no te importa el tiempo adicional, el servicio de autobuses ADO podr&iacute;a ser una elecci&oacute;n adecuada.</p>
+                <p>As you step into the Cancun airport, Caribbean Taxi awaits you at our distinctive orange booth strategically located within Terminals 2, 3, and 4. Keep an eye out for our team dressed in vibrant orange uniforms, serving as a unique and inviting landmark to seamlessly guide you. Whether you're traveling for business or leisure, our prime spot in Terminal 2 ensures a convenient meeting point, easing your transition from the airport to your selected destination.</p>
+                <p>Rest assured, our dedicated team is ready to offer assistance, ensuring a smooth and delightful journey from the moment you touch down. From our easily recognizable orange booth in Terminal 2 to the welcoming demeanor of our team, Caribbean Taxi is dedicated to ensuring your airport experience is enjoyable and stress-free, setting the stage for a remarkable stay in the stunning Cancun region.</p>
             </div>
             <div class="right">
                 <picture>
                     <source srcset="/assets/img/destinations/cancun/cancun.webp" type="image/webp">
-                    <img src="/assets/img/destinations/cancun/cancun.jpg" alt="Servicios de transporte en el aeropuerto de cancún" title="Servicios de transporte en el aeropuerto de cancún" loading="lazy" width="373" height="260">
+                    <img src="/assets/img/destinations/cancun/cancun.jpg" alt="Where to Find Us at Cancun Airport?" title="Where to Find Us at Cancun Airport?" loading="lazy" width="373" height="260">
                 </picture>
             </div>
         </div>
@@ -551,76 +548,76 @@
 
     <div class="container destinations_information">
         <div class="top">
-            <h2>Servicio completo de Taxi Aeropuerto Cancún - Riviera Maya</h2>
-            <p>Experimenta nuestro servicio integral de taxi desde y hacia el Aeropuerto de Canc&uacute;n. Sea que tu destino sea la Riviera Maya o viceversa, estamos comprometidos a ofrecer un servicio completo y siempre listos para llevarte a tu hotel o atracci&oacute;n favorita. Desde cualquier punto de la Riviera Maya al Aeropuerto Internacional de Canc&uacute;n, tu viaje comienza y termina con nosotros.</p>
+            <h2>Transportation service in the riviera maya</h2>
+            <p>When it comes to your transfer to Cancun, count on Caribbean Taxi for a service that is both reliable and exceptional. Our specialization lies in offering the most comprehensive and trustworthy transportation service throughout the region. Whether you're arriving at the Airport or any destination within Cancun, our dedicated team is prepared to seamlessly transport you to your hotel or preferred location in the city. Choose Caribbean Taxi for a transfer experience that guarantees comfort and security, ensuring a smooth and delightful beginning to your stay in Cancun. Transform your arrival into a hassle-free experience with Caribbean Taxi!.</p>
         </div>
         <div class="bottom">
             <div>
-                <a href="/traslado-de-cancun-tulum" title="Traslado a Tulum">
+                <a href="/cancun-to-tulum-shuttle" title="Tulum Transportation">
                     <picture>
                         <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
-                        <img src="/assets/img/destinations/tulum-destino.jpg" alt="Traslado a Tulum" title="Traslado a Tulum" loading="lazy" width="373" height="260">
+                        <img src="/assets/img/destinations/tulum-destino.jpg" alt="Tulum Transportation" title="Tulum Transportation" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/traslado-de-cancun-tulum" title="Traslado a Tulum">Traslado a Tulum</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 40 minutos</p>
+                    <h3><a href="/cancun-to-tulum-shuttle" title="Tulum Transportation">Tulum Transportation</a></h3>
+                    <p>Enjoy a safe, fast and reliable Tulum Transportation service. Estimated transfer time from Cancun is 1 hour and 40 minutes.</p>
                 </div>
             </div>
             <div>
-                <a href="/transporte-cancun-a-playa-del-carmen" title="Traslado a Playa del Carmen">
+                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">
                     <picture>
                         <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
-                        <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Traslado a Playa del Carmen" title="Traslado a Playa del Carmen" loading="lazy" width="373" height="260">
+                        <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Transportation to Playa del Carmen" title="Transportation to Playa del Carmen" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transporte-cancun-a-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 55 minutos</p>
+                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">Transportation to Playa del Carmen</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Playa del Carmen. Estimated transfer time from Cancun is 55 minutes.</p>
                 </div>
             </div>
             <div>
-                <a href="/taxi-aeropuerto-cancun" title="Taxi en el Aeropuerto de Cancún">
+                <a href="/cancun-airport-transportation" title="Cancun Airport Taxi">
                     <picture>
                         <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
-                        <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Cancún" title="Taxi en el Aeropuerto de Cancún" loading="lazy" width="373" height="260">
+                        <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Cancun Airport Taxi" title="Cancun Airport Taxi" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/taxi-aeropuerto-cancun" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
-                    <p>Disfruta de un servicio de Traslado a la Zona Hotelera seguro, rápido y confiable. El tiempo estimado de traslado desde el Aeropuerto a la Zona Hotelera es de 30 minutos</p>
+                    <h3><a href="/cancun-airport-transportation" title="Cancun Airport Taxi">Cancun Airport Taxi</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to the Hotel Zone. Estimated transfer time from the airport to the Hotel Zone is 30 minutes.</p>
                 </div>
             </div>
             <div>
-                <a href="/transporte-cancun-a-akumal" title="Traslado a Akumal">
+                <a href="/cancun-to-akumal-shuttle" title="Akumal Shuttle">
                     <picture>
                         <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
-                        <img src="/assets/img/destinations/destino-akumal.jpg" alt="Traslado a Akumal" title="Traslado a Akumal" loading="lazy" width="373" height="260">
+                        <img src="/assets/img/destinations/destino-akumal.jpg" alt="Akumal Shuttle" title="Akumal Shuttle" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transporte-cancun-a-akumal" title="Traslado a Akumal">Traslado a Akumal</a></h3>
-                    <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún a Akumal es de 1 hora y 40 minutos</p>
+                    <h3><a href="/cancun-to-akumal-shuttle" title="Akumal Shuttle">Akumal Shuttle</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Akumal. Estimated transfer time from Cancun to Akumal is 1 hour and 40 minutes.</p>
                 </div>
             </div>
             <div>
                 <picture>
                     <source srcset="/assets/img/destinations/puerto-morelos-destino-taxi.webp" type="image/webp">
-                    <img src="/assets/img/destinations/puerto-morelos-destino-taxi.jpg" alt="Traslado a Puerto Morelos" title="Traslado a Puerto Morelos" loading="lazy" width="373" height="260">
+                    <img src="/assets/img/destinations/puerto-morelos-destino-taxi.jpg" alt="Transportation to Puerto Morelos" title="Transportation to Puerto Morelos" loading="lazy" width="373" height="260">
                 </picture>
                 <div>
-                    <h3>Traslado a Puerto Morelos</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Morelos seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 30 minutos</p>
+                    <h3>Transportation to Puerto Morelos</h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Morelos. Estimated transfer time from Cancun is 30 minutes.</p>
                 </div>
             </div>
             <div>
                 <picture>
                     <source srcset="/assets/img/destinations/destino-puerto-aventuras.webp" type="image/webp">
-                    <img src="/assets/img/destinations/destino-puerto-aventuras.jpg" alt="Traslado a Puerto Aventuras" title="Traslado a Puerto Aventuras" loading="lazy" width="373" height="260">
+                    <img src="/assets/img/destinations/destino-puerto-aventuras.jpg" alt="Transportation to Puerto Aventuras" title="Transportation to Puerto Aventuras" loading="lazy" width="373" height="260">
                 </picture>
                 <div>
-                    <h3>Traslado a Puerto Aventuras</h3>
-                    <p>Disfruta de un servicio de Traslado a Puerto Aventuras seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 20 minutos</p>
+                    <h3>Transportation to Puerto Aventuras</h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Aventuras. Estimated transfer time from Cancun is 1 hour and 20 minutes.</p>
                 </div>
             </div>
         </div>
@@ -629,18 +626,14 @@
     <div class="container additional_information">
         <div class="bottom">
             <div class="left">                
-                <h2>Taxi riviera maya, servicio confiable de taxi aeropuerto cancún</h2>
-                <p>Somos la opci&oacute;n n&uacute;mero uno para moverte por la Riviera Maya. Nos enorgullece ser la empresa preferida para traslados desde el Aeropuerto de Canc&uacute;n a tu destino en la Riviera Maya.</p>
-                <p>En Taxi Riviera Maya, destacamos como el servicio de taxi aeropuerto que te brinda confianza y eficiencia. Desde el momento en que aterrizas en el Aeropuerto de Canc&uacute;n, nuestro equipo de conductores altamente capacitados est&aacute; listo puntualmente para llevarte a tu hotel, resort o cualquier destino en la Riviera Maya.</p>
-                <p>Nos dedicamos a ofrecer comodidad y seguridad en cada viaje. Nuestra flota de veh&iacute;culos, modernos y seguros, est&aacute; dise&ntilde;ada para garantizar que tu traslado desde el aeropuerto sea suave y sin preocupaciones. En Taxi Riviera Maya, tu satisfacci&oacute;n y bienestar son nuestra prioridad.</p>
-                <p>Disfruta de las tarifas m&aacute;s bajas en canc&uacute;n y la facilidad de reservar tu taxi en el aeropuerto de Canc&uacute;n con nosotros. En Taxi Riviera Maya, valoramos tu tiempo y tu dinero, brind&aacute;ndote la mejor relaci&oacute;n calidad-precio y un proceso de reserva sin complicaciones.</p>
-                <p>Cada viaje con Taxi Riviera Maya es una oportunidad para brindarte un servicio excepcional que cumple con tus expectativas y m&aacute;s. Conf&iacute;a en nosotros para hacer que tu llegada y salida del Aeropuerto de Canc&uacute;n sea perfecta.</p>
-                <p>Descubre la excelencia en traslados con Taxi Riviera Maya, tu opci&oacute;n confiable de taxi en el aeropuerto de Canc&uacute;n al mejor precio. &iexcl;Reserva tu viaje hoy y experimenta un servicio de primera clase que va m&aacute;s all&aacute; de tus expectativas!</p>
+                <h2>Caribbean Taxi: Your Trusted Partner in Cancun</h2>
+                <p>Caribbean Taxi stands as more than just a transportation service; it embodies a dedication to excellence in customer care and satisfaction. As a distinguished choice in Cancun, Caribbean Taxi goes above and beyond to prioritize the needs and comfort of every traveler. Our commitment emanates from a sincere spirit of friendliness and hospitality, ensuring that your journey with us is not merely a ride but a delightful experience.</p>
+                <p>What distinguishes Caribbean Taxi is our unwavering commitment to placing the customer at the forefront. From the moment you make a booking until you reach your destination, our team is devoted to providing a seamless and enjoyable experience. Our drivers, easily recognizable in their distinctive orange uniforms, epitomize the welcoming essence of Caribbean Taxi. Whether you're arriving at the airport or immersing yourself in the lively streets of Cancun, our dedication to hospitality ensures that you don't just feel like a passenger but a valued guest throughout your journey. Opt for Caribbean Taxi for a transportation experience that seamlessly blends efficiency with a warm welcome, making your time in Cancun truly unforgettable.</p>
             </div>
             <div class="right">
                 <picture>
                     <source srcset="/assets/img/home/client.webp" type="image/webp">
-                    <img src="/assets/img/home/client.png" alt="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" title="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" loading="lazy" width="390" height="481">
+                    <img src="/assets/img/home/client.png" alt="More than just a cab service at Cancun Airport" title="More than just a cab service at Cancun Airport" loading="lazy" width="390" height="481">
                 </picture>
             </div>
         </div>
@@ -648,75 +641,68 @@
 
     <div class="container faqs_section">
         <div class="top">
-            <h2>Preguntas Frecuentes sobre el servicio de Traslados</h2>
-            <p>Te ayudamos a despejar tus dudas sobre el servicio de Traslados en Cancún</p>
+            <h2>Caribbean taxi: cancun airport transportation Faq's</h2>
+            <p>Navigating uncertainties about Caribbean Taxi? Allow us to provide comprehensive clarity on some frequently asked questions:</p>
         </div>
         <div class="bottom">
             <div>
-                <h3>¿Cómo puedo tomar un taxi en el aeropuerto de Cancún?</h3>
+                <h3>Where can I find Caribbean Taxi at Cancun Airport?</h3>
                 <div>
-                    <p>En el aeropuerto de Cancún, hay varios proveedores de taxis autorizados que ofrecen servicios de transporte. Puedes seguir las señales que indican "Taxi" para llegar a un mostrador de taxi y solicitar un servicio. La empresa oficial de Taxi en el Aeropuerto de Cancún es Caribbean Taxi, a la cual te puedes dirigir al momento de llegar al aeropuerto, recuerda solicitarles su información y credenciales para cerciorarse de que no sea una empresa pirata.</p>
-                    <p>Una vez que te hayas acercado al mostrador, indica tu destino y el número de pasajeros, y el representante del taxi te dará un ticket con el precio del servicio. Es importante verificar que la tarifa del servicio sea la correcta y acordada antes de subir al taxi, pues muchas veces los conductores incrementan los precios.</p>
+                    <p>Caribbean Taxi is conveniently positioned at our prominent orange booth in Terminals 2, 3, and 4 at Cancun Airport. Look for our easily identifiable spot for a smooth meeting point.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Qué tan seguro es tomar un taxi desde el aeropuerto de Cancún?</h3>
+                <h3>Do I need to book in advance, or can I find a taxi on-site?</h3>
                 <div>
-                    <p>Sí, es seguro tomar un taxi en el aeropuerto de Cancún siempre y cuando contrates servicios de taxis autorizados. Algunos servicios de taxis no autorizados podrían estar en operación y podrían no estar sujetos a los mismos estándares de seguridad y calidad que los servicios autorizados.</p>
-                    <p>Es importante verificar que el servicio de taxi que contrates tenga las licencias y los permisos requeridos para operar en el aeropuerto y en la zona de Cancún</p>
+                    <p>While on-site availability is possible, we highly recommend booking in advance to ensure a guaranteed and seamless experience. This way, you can start your journey without any uncertainties.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cuál es la ventaja de reservar con anticipación mi servicio de taxi en Cancún?</h3>
+                <h3>Are your drivers easily identifiable?</h3>
                 <div>
-                    <p>La principal ventaja de reservar con anticipación tu servicio de taxi en Cancún es que podrás evitar esperas innecesarias y posibles contratiempos. Al reservar con anticipación, puedes asegurarte de que un conductor estará esperándote a tu llegada, lo que puede ser especialmente útil si llegas a altas horas de la noche o si tienes un vuelo temprano en la mañana.</p>
-                    <p>Además, al reservar con anticipación, puedes ahorrar tiempo y dinero, ya que algunos servicios de taxi ofrecen descuentos especiales a los clientes que reservan con antelación.</p>
+                    <p>Yes, our drivers stand out in vibrant orange uniforms, ensuring easy recognition and fostering a welcoming atmosphere. You'll have no trouble spotting our team ready to assist you.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Es Taxi Riviera Maya una empresa confiable de taxi en el aeropuerto de Cancún?</h3>
+                <h3>Can I pay for the service upon arrival in Cancun?</h3>
                 <div>
-                    <p>Claro, Taxi Riviera Maya es una de las pocas empresas seguras, confiables y honestas de traslado en el Aeropuerto de Cancún, pues queremos que nuestros clientes regresen. Cada uno de los colaboradores de Taxi Riviera Maya tiene con años con nosotros, por lo que sabemos que cada uno de nuestros cleintes estará en buenas manos. Además, ofrecemos un servicio totalmente personalizado, estamos en contacto con ustedes hasta que abordes tu vehículo, sin tiempo de espera. </p>
-                    <p>Prueba cualquiera de nuestros servicios de traslados, desde el más económico hasta el más caro, el nivel de confiablidad es el máximo posible y siempre garantizado, para que sólo te encargues de disfrutar tus vacaciones en la Riviera Maya</p>
+                    <p>Absolutely, we offer the flexibility of payment upon arrival, providing you with the convenience and assurance that your service will be ready and waiting without any pre-trip concerns.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cuál es la tarifa estándar en el aeropuerto de Cancún para los taxis?</h3>
+                <h3>What sets Caribbean Taxi apart from other transportation services?</h3>
                 <div>
-                    <p>Las tarifas de los taxis en el aeropuerto de Cancún pueden variar dependiendo del destino y de la hora del día. Las tarifas se basan en zonas, y el precio se determina según la ubicación del destino en la zona. La tarifa más baja para empresas de Taxis con licencia y permisos oficiales es de 600 MXN, debido a que se incluye un seguro de viaje, por debajo de ese precio es probable que sea una empresa sin permisos ni regulaciones.</p>
-                    <p>Las tarifas también varían dependiendo del tipo de vehículo que se utilice y de la cantidad de pasajeros. Es importante verificar la tarifa antes de contratar el servicio para evitar cualquier sorpresa o confusión.</p>
+                    <p>Caribbean Taxi distinguishes itself through an unwavering commitment to customer satisfaction. We pride ourselves on blending efficiency with a warm and welcoming experience, ensuring your journey is not just a ride but a delightful one.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cuál es el horario de servicio de taxi en el aeropuerto de Cancún?</h3>
+                <h3>Are your services limited to the airport, or do you cover other destinations in Cancun?</h3>
                 <div>
-                    <p>El servicio de taxi en el aeropuerto de Cancún opera las 24 horas del día, los 7 días de la semana. No importa a qué hora llegues al aeropuerto, siempre habrá taxis disponibles para llevarte a tu destino.</p>
-                    <p>Sin embargo es recomendado reservar con anticipación tu servicio de Taxi en el Aeropuerto, pues la mayoria de las veces hay que esperar por la alta demanda de los taxis en el Aeropuerto</p>
+                    <p>Our transportation services extend beyond the airport, covering various destinations within Cancun. Whether you're heading to a hotel, resort, or specific location in the city, we offer comprehensive coverage to meet your travel needs.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Se puede pagar en dólares el servicio de taxi en el aeropuerto de Cancún?</h3>
+                <h3>Is Caribbean Taxi available for both leisure and business travelers?</h3>
                 <div>
-                    <p>Sí, Taxi Riviera Maya, acepta dólares (USD) y tambien diferentes divisas a través de Trajetas de credito o debito nsin cargos adicionales, tambien algunas empresas de taxi en el aeropuerto de Cancún aceptan dólares estadounidenses como forma de pago, pero en caso de tomar le servicio con cualquier otra empresa es recomendable tener pesos mexicanos para evitar cualquier confusión o posible cambio desfavorable.</p>
-                    <p>También es importante verificar con el proveedor del servicio de taxi si aceptan tarjetas de crédito o débito y si hay cargos adicionales por su uso.</p>
+                    <p>Yes, our services cater to both leisure and business travelers, prioritizing comfort and efficiency for all. Whether you're in Cancun for work or pleasure, Caribbean Taxi ensures a seamless and enjoyable transfer experience.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cuál es la duración del recorrido del servicio de Taxi del Aeropuerto de Cancún a la Zona Hotelera?</h3>
+                <h3>What safety measures are in place during the transfer?</h3>
                 <div>
-                    <p>El tiempo promedio de un taxi del aeropuerto de Cancún a la zona hotelera depende del tráfico y del destino específico, pero generalmente toma alrededor de 20 a 30 minutos. Es importante considerar el tráfico y la hora del día al planificar tu transporte desde el aeropuerto.</p>
+                    <p>Your safety is our utmost priority. In addition to closely monitored flights, we provide traveler's insurance during your transfer, offering an extra layer of protection and peace of mind throughout your journey.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Se cobra por distancia o por zona el servicio de taxi en el aeropuerto de Cancún?</h3>
+                <h3>How can I contact Caribbean Taxi for additional inquiries?</h3>
                 <div>
-                    <p>En el aeropuerto de Cancún, los servicios de taxi generalmente cobran por zona, lo que significa que el precio se basa en la ubicación del destino en la zona. Es importante verificar la tarifa antes de contratar el servicio para evitar cualquier sorpresa o confusión.</p>
+                    <p>Feel free to reach out to us through the contact information provided on our website. Whether you have further questions or special requests, our team is here to assist you in any way possible.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Puedo tomar Uber en el aeropuerto de Cancún?</h3>
+                <h3>Why choose Caribbean Taxi for transportation in Cancun?</h3>
                 <div>
-                    <p>Actualmente, Uber no opera en el aeropuerto de Cancún, pero puedes utilizar otros servicios de transporte o taxis autorizados por el aeropuerto para llegar a tu destino. Además de poder reservar con nosotros anticipadamente, algunos hoteles en la zona hotelera de Cancún tienen servicios de transporte privado para sus huéspedes que puedes reservar con anticipación de igual manera.</p>
+                    <p>Caribbean Taxi stands out for its unwavering commitment to excellence. We strive to ensure a seamless and delightful transportation experience for every traveler, making your journey with us memorable from start to finish.</p>
                 </div>
             </div>
         </div>

@@ -10,9 +10,9 @@
           "@type": "Product",
           "name": "Taxi Privado en Costa Mujeres",
           "image": [
-            "https://taxirivieramaya.com/assets/img/schema/1x1.jpg",
-            "https://taxirivieramaya.com/assets/img/schema/4x3.jpg",
-            "https://taxirivieramaya.com/assets/img/schema/16x9.jpg"
+            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
+            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
+            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
            ],
           "description": "Servicio de Taxi desde y hacia el Aeropuerto de Cancún, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para toda la Riviera Maya.",
           "sku": "019005",
@@ -40,7 +40,7 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://taxirivieramaya.com/traslado-cancun-a-puerto-morelos",
+            "url": "https://caribbean-taxi.com/traslado-cancun-a-puerto-morelos",
             "priceCurrency": "MXN",
             "price": 954,
             "priceValidUntil": "2024-12-31",
@@ -54,9 +54,9 @@
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "image": [
-                "https://taxirivieramaya.com/assets/img/schema/1x1.jpg",
-                "https://taxirivieramaya.com/assets/img/schema/4x3.jpg",
-                "https://taxirivieramaya.com/assets/img/schema/16x9.jpg"
+                "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
+                "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
+                "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
             ],
             "name": "Taxi Riviera Maya",
             "hasMap": "https://www.google.com/maps/place/Taxi+Riviera+Maya/@21.0723366,-86.8489683,17z/data=!4m6!3m5!1s0x8f4c2be10a05f649:0xc59c79538ab20351!8m2!3d21.0723316!4d-86.8463934!16s%2Fg%2F11sbd81d37?entry=tts&shorturl=1",
@@ -89,9 +89,9 @@
               "latitude": 21.072476745380349,
               "longitude": -86.846425590797892
             },
-            "url": "https://taxirivieramaya.com/traslado-cancun-a-puerto-morelos",
+            "url": "https://caribbean-taxi.com/traslado-cancun-a-puerto-morelos",
             "telephone": "+529982942389",
-            "email": "bookings@taxirivieramaya.com",            
+            "email": "bookings@caribbean-taxi.com",            
             "priceRange": "990 MXN - 1980 MXN",
             "openingHoursSpecification": [
                 {
@@ -200,7 +200,7 @@
     <div class="container gray-container-information">
         <picture>
             <source srcset="/assets/img/home/taxirivi-cliente.webp" type="image/webp">
-            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Servicio confiable de Taxi del Aeropuerto de Cancún" title="Servicio confiable de Taxi del Aeropuerto de Cancún" loading="lazy" width="352" height="258">
+            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Cancun Airport Taxi Service" title="Reliable Cancun Airport Taxi Service" loading="lazy" width="352" height="258">
         </picture>
         <div>
             <h2>¡El transporte a Puerto Morelos con el mejor trato al cliente!</h2>
@@ -506,7 +506,7 @@
                         <p class="rating">Rating</p>
                         <p class="rating_count">4.7 <span>4107 comentarios</span></p>
                     </div>
-                    <a title="Escribir comentario" target="_blank" href="https://g.page/r/CaJOK2AW7uT6EB0/review">Escribir comentario</a>                  
+                    <a title="Escribir comentario" target="_blank" href="https://g.page/r/CRiPQCgp1RMmEB0/review">Escribir comentario</a>                  
                 </div>
                 <div class="items">
 
@@ -524,8 +524,8 @@
                         <div class="bottom">
                             <div class="rating_stars"></div>
                             <p>¡Experiencia de traslado excepcional en Puerto Morelos! Taxi Riviera Maya superó mis expectativas. Conductor amigable, vehículo cómodo y tarifa justa. La elección perfecta para llegar a cualquier destino en Puerto Morelos.</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
+                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
                     </div>
 
@@ -543,8 +543,8 @@
                         <div class="bottom">
                             <div class="rating_stars"></div>
                             <p>¡Impecable servicio de traslado en Puerto Morelos! Puntualidad, vehículo en excelentes condiciones y una relación calidad-precio inmejorable. Taxi Riviera Maya se destaca en el trayecto en Puerto Morelos.</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
+                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
                     </div>
 
@@ -562,8 +562,8 @@
                         <div class="bottom">
                             <div class="rating_stars"></div>
                             <p>Recomiendo ampliamente Taxi Riviera Maya en Puerto Morelos. Servicio impecable desde el aeropuerto de Cancún. Tarifa accesible y atención de calidad. ¡La mejor opción en diciembre en Puerto Morelos!</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
+                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
                     </div>    
 
@@ -581,8 +581,8 @@
                         <div class="bottom">
                             <div class="rating_stars"></div>
                             <p>A pesar de los desafíos en el aeropuerto, Taxi Riviera Maya fue un alivio en Puerto Morelos. Conductor amable, tarifa justa y servicio excepcional. Totalmente recomendado para llegar a cualquier destino en Puerto Morelos.</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Leer más</a>
+                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posteado en <span>Google</span></a>
                         </div>
                     </div>      
 
@@ -619,50 +619,50 @@
         </div>
         <div class="bottom">
             <div>
-                <a href="/traslado-de-cancun-tulum" title="Traslado a Tulum">
+                <a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">
                     <picture>
                         <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/tulum-destino.jpg" alt="Traslado a Tulum" title="Traslado a Tulum" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/traslado-de-cancun-tulum" title="Traslado a Tulum">Traslado a Tulum</a></h3>
+                    <h3><a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
                     <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/transporte-cancun-a-playa-del-carmen" title="Traslado a Playa del Carmen">
+                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
                     <picture>
                         <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Traslado a Playa del Carmen" title="Traslado a Playa del Carmen" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transporte-cancun-a-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
+                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
                     <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 55 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/taxi-aeropuerto-cancun" title="Taxi en el Aeropuerto de Cancún">
+                <a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">
                     <picture>
                         <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
                         <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Cancún" title="Taxi en el Aeropuerto de Cancún" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/taxi-aeropuerto-cancun" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
+                    <h3><a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
                     <p>Disfruta de un servicio de Traslado a la Zona Hotelera seguro, rápido y confiable. El tiempo estimado de traslado desde el Aeropuerto a la Zona Hotelera es de 30 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/transporte-cancun-a-akumal" title="Traslado a Akumal">
+                <a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">
                     <picture>
                         <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
                         <img src="/assets/img/destinations/destino-akumal.jpg" alt="Traslado a Akumal" title="Traslado a Akumal" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transporte-cancun-a-akumal" title="Traslado a Akumal">Traslado a Akumal</a></h3>
+                    <h3><a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
                     <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún a Akumal es de 1 hora y 40 minutos</p>
                 </div>
             </div>

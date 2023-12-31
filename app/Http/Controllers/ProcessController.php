@@ -11,8 +11,8 @@ class ProcessController extends Controller{
     use ApiTrait, SeoTrait;
     public $seo = [];
 
-    public function handler(Request $request){
-        $this->seoData("search-result");
+    public function handler(Request $request){        
+        $this->seo = SeoTrait::seoData('search-result');
 
         $validator = Validator::make($request->all(), [
             'type' => 'required|in:OW,RT',
@@ -52,8 +52,8 @@ class ProcessController extends Controller{
         return view('process.search', ['data' => $data, 'seo' => $this->seo]);
     }
 
-    public function search(){
-        $this->seoData("search-result");
+    public function search(){        
+        $this->seo = SeoTrait::seoData('search-result');
 
         $quote = session()->get('quote');
         if( $quote == NULL ):
@@ -64,8 +64,8 @@ class ProcessController extends Controller{
         return view('process.search', ['data' => $data, 'seo' => $this->seo]);
     }
 
-    public function handlerCheckout(Request $request){
-        $this->seoData("checkout");
+    public function handlerCheckout(Request $request){        
+        $this->seo = SeoTrait::seoData('checkout');
 
         $validator = Validator::make($request->all(), [
             'id' => 'integer',
@@ -105,8 +105,8 @@ class ProcessController extends Controller{
         return view('process.checkout', ['quote' => $quote, 'data' => $data, 'form' => $form, 'seo' => $this->seo]);
     }
 
-    public function checkout(){
-        $this->seoData("checkout");
+    public function checkout(){        
+        $this->seo = SeoTrait::seoData('checkout');
         
         $quote = session()->get('quote');
         if( $quote == NULL ):
@@ -140,8 +140,8 @@ class ProcessController extends Controller{
         return view('process.checkout', ['quote' => $quote, 'data' => $data, 'form' => $form, 'seo' => $this->seo]);
     }
 
-    public function processingHandler(Request $request){
-        $this->seoData("processing");
+    public function processingHandler(Request $request){        
+        $this->seo = SeoTrait::seoData('processing');
 
         $validator = Validator::make($request->all(), [
             'type' => 'required|in:OW,RT',            
@@ -195,13 +195,13 @@ class ProcessController extends Controller{
         return view('process.processing', [ 'payment' => $payment_link, 'seo' => $this->seo, 'data' => $data ]);
     }
 
-    public function success(){
-        $this->seoData("thank-you");
+    public function success(){        
+        $this->seo = SeoTrait::seoData('thank-you');
         return view('process.thank-you', ['seo' => $this->seo]);
     }
 
-    public function error(){
-        $this->seoData("cancel");
+    public function error(){        
+        $this->seo = SeoTrait::seoData('cancel');
         return view('process.cancel', ['seo' => $this->seo]);
     }
 
@@ -210,8 +210,8 @@ class ProcessController extends Controller{
         if( $rez ):
             return redirect()->route('reservation.detail');
         endif;
-
-        $this->seoData("login");
+        
+        $this->seo = SeoTrait::seoData('login');
         return view('process.login', ['seo' => $this->seo]);
     }
 
@@ -241,8 +241,8 @@ class ProcessController extends Controller{
         return redirect()->route('reservation.detail');
     }
 
-    public function reservationDetail(Request $request){
-        $this->seoData("reservation-detail");
+    public function reservationDetail(Request $request){        
+        $this->seo = SeoTrait::seoData('reservation-detail');
         if(isset( $request->logout )):
             session()->forget('reservation');
             return redirect()->route('login');

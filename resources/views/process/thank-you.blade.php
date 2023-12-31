@@ -14,8 +14,8 @@
 
     <div class="container thank-you-content">
         <div class="left">
-            <h1>Tu reservación ha sido confirmada :)</h1>
-            <p>Hemos enviado un correo de confirmación, para más información por favor contáctanos.</p>
+            <h1>Your reservation has been confirmed :)</h1>
+            <p>We have sent you a confirmation email, for more information please contact us.</p>
             <div class="one">
                 <a href="mailto:{{ config('services.email') }}" title="{{ config('services.email') }}" class="link">{{ config('services.email') }}</a>
                 <p>Llámanos al</p>
@@ -23,14 +23,14 @@
                 <a href="tel:{{ App\Traits\GeneralTrait::clearPhone( config('services.phone.US') ) }}" title="{{ config('services.phone.US') }}" class="link">{{ config('services.phone.US') }}</a>
             </div>
             <div class="two">
-                <a href="/" title="Ir al inicio">Ir al inicio</a>
-                <a href="/reserva" title="Ver mi reservación">Ver mi reservación</a>
+                <a href="/" title="Go to home">Go to home</a>
+                <a href="/my-reservation" title="View my reservation">View my reservation</a>
             </div>
         </div>
         <div class="right">
             <picture>                
                 <source srcset="/assets/img/general/confirmation.webp" type="image/webp">
-                <img src="/assets/img/general/confirmation.png" alt="Reservación confirmada" title="Reservación confirmada" width="295" height="285">
+                <img src="/assets/img/general/confirmation.png" alt="Your reservation has been confirmed" title="Your reservation has been confirmed" width="295" height="285">
             </picture>
         </div>
     </div>

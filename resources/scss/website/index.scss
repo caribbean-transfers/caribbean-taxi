@@ -323,6 +323,46 @@ div.our_services{
     }
 }
 
+.how_to_information{
+    padding-top: 15px;
+    margin-top: 35px;
+    > div.top{
+        margin-bottom: 15px;
+        h2{
+            font-size: 18pt;            
+        }
+    }
+    > div.bottom{
+        display: grid;
+        grid-template-columns: 1fr 350px;
+        grid-column-gap: 25px;
+        > div.left{
+            p{
+                line-height: 1.5;
+                margin-bottom: 15px;
+            }
+        }
+        > div.right{
+            img, source{
+                width: 100%;
+                height: auto;
+                border-radius: 5px;
+                object-fit: cover;
+                @media (max-width: 767px) {
+                    max-width: 350px;
+                }
+            }
+            @media (max-width: 767px) {
+                text-align: center;
+                padding-top: 15px;
+            }
+        }
+        @media (max-width: 767px) {
+            grid-template-columns: 1fr;
+        }
+    }
+}
+
 .destinations_information{
     padding-top: 15px;
     padding-bottom: 35px;

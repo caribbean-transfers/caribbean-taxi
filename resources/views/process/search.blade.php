@@ -20,7 +20,7 @@
 
     <div class="parallax-container">
         <div class="container">
-            <h1>RESULTADOS</h1>
+            <h1>SEARCH RESULT</h1>
         </div>
     </div>
     
@@ -30,7 +30,7 @@
                 <div class="map" id="map">Map</div>
             @endif
             <div class="bookingbox-parent">
-                <button id="toggle-bookingbox-button">MODIFICAR</button>
+                <button id="toggle-bookingbox-button">MODIFY SEARCH</button>
                 <div id="toggle-bookingbox-div" class="hidden">
                     <x-bookingbox/>
                 </div>
@@ -39,14 +39,14 @@
         <div class="right" id="result-listing-container">
             <div class="top">
                 @if(isset($data['items']))
-                    <h2>Traslado de {{ $data['places']['one_way']['init']['name'] }} - {{ $data['places']['one_way']['end']['name'] }}</h2>
-                    <p>Distancia aproximada: {{ $data['places']['distance'] }}, tiempo aproximado de recorrido {{ $data['places']['time'] }}</p>
+                    <h2>Transfer from {{ $data['places']['one_way']['init']['name'] }} to {{ $data['places']['one_way']['end']['name'] }}</h2>
+                    <p>Approximate distance: {{ $data['places']['distance'] }}, estimated travel time {{ $data['places']['time'] }}</p>
                 @endif
 
                 @if(isset($data['error']))
                     <div class="error">
-                        <p>Lo sentimos :(</p>
-                        <h2>Desafortunadamente no encontramos disponibilidad para la <strong>Zona</strong> / <strong>Horarios</strong> solicitados, descuida podemos resolverlo.</h2>
+                        <p>We are sorry :(</p>
+                        <h2>Unfortunately we did not find availability for the <strong>Zone</strong> / <strong>Schedules</strong> requested, don't worry, we can solve it.</h2>
                         <div>
                             <a href="tel:{{ App\Traits\GeneralTrait::clearPhone( config('services.phone.US') ) }}" class="btn">
                                 <svg width="20" height="20"><use xlink:href="/assets/img/svg/icons.svg#phone"></use></svg>
@@ -54,9 +54,9 @@
                             </a>
                             <a href="tel:{{ App\Traits\GeneralTrait::clearPhone( config('services.phone.MX') ) }}" class="btn">
                                 <svg width="20" height="20"><use xlink:href="/assets/img/svg/icons.svg#phone"></use></svg>
-                                Mexico &amp; Resto del mundo
+                                Mexico &amp; Rest of the World
                             </a>
-                            <a href="https://api.whatsapp.com/send?phone=5219982942389&text=Hola%2C%20me%20gustar%C3%ADa%20cotizar%20un%20servicio" class="btn">
+                            <a href="https://api.whatsapp.com/send?phone=529987374906&text=Hello%2C%20I%20need%20a%20transportation%20service" class="btn">
                                 <svg width="30" height="30"><use xlink:href="/assets/img/svg/icons.svg#social-whatsapp"></use></svg>
                                 WhatsApp
                             </a>
@@ -83,52 +83,51 @@
                                     <h3>{{ $item['name'] }}</h3>
                                     <p>5/5</p>
                                     <ul>
-                                        <li>Hasta {{ $item['passengers'] }} Pasajeros</li>
-                                        <li>Max. {{ $item['luggage'] }} Maletas</li>
+                                        <li>Up to {{ $item['passengers'] }} Pax</li>
+                                        <li>Max. {{ $item['luggage'] }} Luggage</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="two">
                                 @if($item['id'] == 1)
-                                    <p>Viaje cómodamente en un servicio totalmente privado, equipado, para hasta {{ $item['passengers'] }} pasajeros. El servicio es privado, sin tiempo de espera, ni paradas continuas.</p>
+                                    <p>Travel comfortably in a fully equipped, private service for up to {{ $item['passengers'] }} passengers. The service is private, with no waiting time or continuous stops.</p>
                                     <ul>
-                                        <li>Servicio Privado</li>
-                                        <li>Incluye impuestos del Aeropuerto y Seguro de Viajero</li>
-                                        <li>Este servicio esta disponible todos los días</li>
-                                        <li>Horario de atención 24 x 7</li>
-                                        <li>Servicio disponible todos los días, 24/7</li>
+                                        <li>Private service</li>
+                                        <li>Airport taxes and Travel Insurance included</li>
+                                        <li>This service is available every day</li>
+                                        <li>Hours of operation 24 x 7</li>
                                     </ul>
                                 @endif
                                 @if($item['id'] == 2)
-                                    <p>Viaje en una Suburban de lujo. Ideal para grupos pequeños, parejas o familias de hasta 5 personas. Totalmente equipada, la mejor opción para su traslado de aeropuerto a su hotel.</p>
+                                    <p>Travel in a luxury Suburban. Ideal for small groups, couples or families up to 5 people. Fully equipped, the best option for your transfer from the airport to your hotel.</p>
                                     <ul>
-                                        <li>Incluye impuestos del Aeropuerto y Seguros</li>
-                                        <li>Servicio Privado, sin tiempos de espera, ni paradas continuas</li>
-                                        <li>Incluye una silla para niños gratis, cuando es solicitada</li>
-                                        <li>Vehículo sujeto a disponibilidad</li>
+                                        <li>Includes airport taxes and insurance</li>
+                                        <li>Private service, no waiting time, no continuous stops.</li>
+                                        <li>Includes a free child seat, when requested</li>
+                                        <li>Vehicle subject to availability</li>
                                     </ul>
                                 @endif
                                 @if($item['id'] == 3)
-                                    <p>Viaje en una Crafter Ideal para grupos grandes, parejas o familias de hasta 15 personas. Totalmente equipada, la mejor opción para su traslado de aeropuerto a su hotel.</p>
+                                    <p>Travel in a Crafter Ideal for large groups, couples or families up to 15 people. Fully equipped, the best option for your transfer from the airport to your hotel.</p>
                                     <ul>
-                                        <li>Incluye impuestos del Aeropuerto y Seguros</li>
-                                        <li>Servicio Privado, sin tiempos de espera, ni paradas continuas</li>
-                                        <li>Incluye una silla para niños gratis, cuando es solicitada</li>
-                                        <li>Servicio disponible todos los días, 24/7</li>
+                                        <li>Includes airport taxes and insurance</li>
+                                        <li>Private service, no waiting time, no continuous stops.</li>
+                                        <li>Includes a free child seat, when requested</li>
+                                        <li>Service available every day, 24/7</li>
                                     </ul>
                                 @endif
                             </div>
                             <div class="three">
                                 <div class="top">
-                                    <p>Precio desde</p>
+                                    <p>Price from</p>
                                     <p>${{ number_format($before,2) }} {{ $item['currency'] }}</p>
                                     <p>${{ number_format( $item['price'], 2) }} {{ $item['currency'] }}</p>
-                                    <p>Precio por vehiculo</p>
+                                    <p>Price per vehicle</p>
                                 </div>
-                                <form action="/registro" method="POST">
+                                <form action="/checkout" method="POST">
                                     @csrf
                                     <input type="hidden" name="id" value="{{ $item['id'] }}">
-                                    <button>Reservar</button>
+                                    <button>Book now</button>
                                 </form>
                             </div>
                         </div>

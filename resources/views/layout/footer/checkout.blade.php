@@ -2,7 +2,7 @@
     <div class="container">
         <p>Copyrights © 2010-{{ date("Y") }} All Rights Reserved.</p>
         <div>
-            <a href="/terminos-y-condiciones" title="Terminos de uso">Terminos de uso</a> | <a href="/privacidad" title="Aviso de Privacidad">Aviso de Privacidad</a>
+            <a href="/terms-and-conditions" title="Terms and conditions">Terms and conditions</a> | <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
         </div>
     </div>
 </footer

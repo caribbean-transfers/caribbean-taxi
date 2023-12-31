@@ -45,11 +45,11 @@
             .then( jsonData => {
                 form.querySelector('button').disabled = false;
                 if(jsonData.status == true){
-                    messageDiv.textContent = `El correo ha sido enviado con éxito, en breve un agente te contactará.`;
+                    messageDiv.textContent = `The email has been sent successfully, an agent will contact you shortly.`;
                     messageDiv.classList.add('success');
                     form.reset();
                 }else{
-                    messageDiv.textContent = `Ocurrió un error al enviar el mensaje, por favor contáctanos por teléfono`;
+                    messageDiv.textContent = `An error occurred while sending the message, please contact us by phone.`;
                     messageDiv.classList.add('error');                    
                 }
             })
@@ -64,18 +64,18 @@
     
     <div class="parallax-container">
         <div class="container">
-            <h1>CONTACTO</h1>
+            <h1>CONTACT</h1>
         </div>
     </div>
 
     <div class="container contact-information">
         <div class="left">
-            <h3>Escríbenos</h3>
-            <p>Si deseas una cotización de un servicio especial de transporte, no dudes en consultarnos, llena el siguiente formulario y nos pondremos en contacto lo más pronto posible.</p>
+            <h3>Write us at</h3>
+            <p>If you would like a quote for a special transportation service, do not hesitate to contact us, fill out the form below and we will contact you as soon as possible.</p>
             <div id="message"></div>
             <form action="" method="POST" id="formData">
                 <div>
-                    <label>NOMBRE <small>*</small></label>
+                    <label>NAME <small>*</small></label>
                     <input type="text" class="form-control" name="name" required>
                 </div>
                 <div>
@@ -84,16 +84,16 @@
                 </div>
                 <div class="two">
                     <div>
-                        <label>ASUNTO <small>*</small></label>
+                        <label>SUBJECT <small>*</small></label>
                         <input type="text" class="form-control" name="subject" required>
                     </div>
                     <div>
-                        <label>TELÉFONO <small>*</small></label>
+                        <label>PHONE <small>*</small></label>
                         <input type="text" class="form-control" name="phone" required>
                     </div>
                 </div>
                 <div>
-                    <label>MENSAJE <small>*</small></label>
+                    <label>MESSAGE <small>*</small></label>
                     <textarea class="form-control" rows="6" cols="30" name="message" required></textarea>
                 </div>
                 @csrf

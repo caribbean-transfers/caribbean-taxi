@@ -7,10 +7,10 @@ use Illuminate\Support\Facades\Session;
 
 trait ApiTrait
 {
-    public static $site_id = 3;
+    public static $site_id = 5;
     public static $api_key = 'bb65be85-82f9-492f-bbd6-4a698509106a';
-    public static $user = 'taxi-riviera-maya';
-    public static $password = 'u92xSp0mT8qlF9t';
+    public static $user = 'caribbean-taxi';
+    public static $password = 'gzc1ZKF3bwe0yavmcf';
     public static $types = [
         "OW" => "one-way",
         "RT" => "round-trip",

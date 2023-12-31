@@ -9,16 +9,16 @@
           "@type": "Product",
           "name": "Traslado Privado a Playa del Carmen",
           "image": [
-            "https://taxirivieramaya.com/assets/img/schema/1x1.jpg",
-            "https://taxirivieramaya.com/assets/img/schema/4x3.jpg",
-            "https://taxirivieramaya.com/assets/img/schema/16x9.jpg"
+            "https://caribbean-taxi.com/assets/img/schema/1x1.jpg",
+            "https://caribbean-taxi.com/assets/img/schema/4x3.jpg",
+            "https://caribbean-taxi.com/assets/img/schema/16x9.jpg"
            ],
-          "description": "Servicio de Traslado desde y hacia Playa del Carmen, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para todas las zonas de Playa del Carmen.",
+          "description": "Transfer service to and from Playa del Carmen, the service is provided in a VW Transporter for up to 8 passengers. Available for all areas of Playa del Carmen.",
           "sku": "019003",
           "mpn": "029003",
           "brand": {
             "@type": "Brand",
-            "name": "Taxi Riviera Maya"
+            "name": "Caribbean Taxi"
           },
           "review": {
             "@type": "Review",
@@ -39,9 +39,9 @@
           },
           "offers": {
             "@type": "Offer",
-            "url": "https://taxirivieramaya.com/transporte-cancun-a-playa-del-carmen",
-            "priceCurrency": "MXN",
-            "price": 1259,
+            "url": "https://caribbean-taxi.com/transportation-cancun-airport-to-playa-del-carmen",
+            "priceCurrency": "USD",
+            "price": 69,
             "priceValidUntil": "2024-12-31",
             "itemCondition": "https://schema.org/UsedCondition",
             "availability": "https://schema.org/InStock"
@@ -68,8 +68,8 @@
     <div class="heading">
         <div class="container">
             <div class="top">
-                <h1>Transporte de Cancún a Playa del Carmen</h1>
-                <p>Las tarifas más bajas en transporte de Cancún a Playa del Carmen, traslado seguro y confiable.</p>
+                <h1>The best Transportation from Cancun Airport to Playa del Carmen</h1>
+                <p>Best prices and service in Shuttle from Cancun Airport to Playa del Carmen!</p>
             </div>
             <div class="bottom">                
                 <x-bookingbox/>
@@ -79,23 +79,22 @@
 
     <div class="container banner_container">
         <div class="left">
-            <h2>Transporte de Cancún a Playa del Carmen por Taxi Riviera Maya</h2>
-            <p>Brindamos el mejor servicio de transporte de Canc&uacute;n a Playa del Carmen, en Taxi Riviera Maya nos enorgullece ofrecer las tarifas m&aacute;s bajas sin comprometer la calidad. Con m&aacute;s de una d&eacute;cada de experiencia, nos destacamos por brindar la mejor relaci&oacute;n calidad-precio en toda la Riviera Maya.</p>
-            <p>Nuestro compromiso es proporcionar viajes c&oacute;modos y seguros desde el aeropuerto de Canc&uacute;n a los destinos principales de la regi&oacute;n, como la Zona Hotelera de Canc&uacute;n, Tulum y m&aacute;s. Al reservar tu transporte de Canc&uacute;n a Playa del Carmen con nosotros, no solo garantizas tarifas competitivas, sino que tambi&eacute;n te aseguras de recibir un servicio de alta calidad y seguro.</p>
-            <p>En Taxi Riviera Maya, nos esforzamos por hacer que el proceso de reserva y traslado sea sencillo, seguro y c&oacute;modo para ti y tus acompa&ntilde;antes. Todas nuestras tarifas incluyen monitoreo de vuelo, evitando largas esperas a tu llegada y eliminando cargos adicionales por retrasos en la salida de tu vuelo.</p>
-            <p>Nuestra empresa se destaca por la constante capacitaci&oacute;n de nuestros agentes de servicio al cliente y conductores, asegur&aacute;ndote as&iacute; un servicio personalizado y la atenci&oacute;n que mereces. Conf&iacute;a en Taxi Riviera Maya para la mejor calidad-precio en transporte de Canc&uacute;n a Playa del Carmen.</p>
+            <h2>Certified Transportation from Cancun Airport to Playa del Carmen Company </h2>
+            <p>Experience top-notch transfers with Caribbean Taxi, a certified company specializing in Playa del Carmen transportation services. We pride ourselves on providing reliable and stress-free experiences, ensuring your vacation in Playa del Carmen starts on the best note possible. Our transparent and regulated rates allow you to plan your budget in advance, eliminating any unwelcome surprises upon reaching your destination.</p>
+            <p>What sets us apart is our unwavering commitment to punctuality. Our professional drivers will be there for you on time, closely monitoring your flight for any changes in arrival time. Understanding the importance of flexibility and confidence in travel, we offer the option to pay upon arrival, assuring you that your service will be ready and waiting without any pre-trip concerns.</p>
+            <p>Safety is our top priority. Alongside flight monitoring and regulated rates, we provide traveler's insurance during your transfer, ensuring complete peace of mind throughout your vacation in Playa del Carmen. Choose Caribbean Taxi for a reliable and customer-centric experience that guarantees your transfer is as enjoyable as your vacation destinations. Travel with us and embark on your Playa del Carmen vacation with a positive and stress-free start!</p>
         </div>
         <div class="right">
             <picture>
                 <source srcset="/assets/img/home/taxi-cancun-aeropuerto-banner.webp" type="image/webp">
-                <img src="/assets/img/home/taxi-cancun-aeropuerto-banner.jpg" alt="La mejor empresa de taxi en la riviera maya" title="La mejor empresa de taxi en la riviera maya" loading="lazy" width="573" height="374">
+                <img src="/assets/img/home/taxi-cancun-aeropuerto-banner.jpg" alt="Passenger van with Caribbean Taxi branding" title="Passenger van with Caribbean Taxi branding" loading="lazy" width="573" height="374">
             </picture>
         </div>
     </div>
 
     <div class="container highlights_items">
         <div class="top">
-            <h2>Servicio de transporte de cancún a playa del carmen</h2>
+            <h2>Reasons to choose Caribbean Taxi</h2>
         </div>
         <div class="bottom">
 
@@ -103,33 +102,33 @@
                 <div class="top">
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#building"></use></svg>
                     <div>
-                        <p>Traslado a hoteles en Playa del Carmen</p>
-                        <h2>TRANSPORTE A PLAYA DEL CARMEN</h2>
+                        <p>Best Playa del Carmen Transportation</p>
+                        <h2>TRANSFER TO PLAYA DEL CARMEN</h2>
                     </div>
                 </div>
-                <p>Traslado a cualquier hotel, airbnb, resort o parque temático en Playa del Carmen, llegamos a cualquier destino en Playa del Carmen</p>
+                <p>Explore seamless transfers to every hotel or destination across the Riviera Maya. Our transfer services extend to every corner of this breathtaking region. If it's on the map, rest assured, we'll get you there with ease and comfort.</p>
             </div>
 
             <div class="item van">
                 <div class="top">
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#van"></use></svg>
                     <div>
-                        <p>Seguridad y Comodidad en todo momento</p>
-                        <h2>TRASLADO A PLAYA DEL CARMEN CÓMODO, SEGURO Y CONFIABLE</h2>
+                        <p>Always Safe & Reliable</p>
+                        <h2>RELIABLE AND SAFE TAXI</h2>
                     </div>
                 </div>
-                <p>Disfruta del mejor transporte de Cancún a Playa del Carmen a bordo de camionetas cómodas y seguras, con choferes capacitados y con actitud de servicio en todo momento.</p>
+                <p>Experience the finest transfer service to any destination in the Riviera Maya, characterized by comfort, safety, and reliability. Our skilled drivers are dedicated to providing an awesome service, ensuring your journey is not just a transfer but a delightful experience.</p>
             </div>
 
             <div class="item airport">
                 <div class="top">
                     <svg width="50" height="50"><use xlink:href="/assets/img/svg/icons.svg#plane-check"></use></svg>
                     <div>
-                        <p>Empresa Oficial de Transporte a Playa del Carmen</p>
-                        <h2>EMPRESA OFICIAL EN PLAYA DEL CARMEN</h2>
+                        <p>Official Cancun Airport Transportation Company</p>
+                        <h2>OFFICIAL AND CERTIFIED COMPANY</h2>
                     </div>
                 </div>
-                <p>Somos una empresa de Traslado de Cancún a Playa del Carmen  registrada y con todos los permisos para operar en cualquier hotel y dentro del aeropuerto de Cancún, por lo que no habrá complicaciones durante tu traslado.</p>
+                <p>As the authorized transportation company at Cancun Airport, we possess all the necessary permits to operate seamlessly across every hotel, destination, and tourist site in Cancun and the Riviera Maya. This ensures a hassle-free and smooth experience for our customers, with no complications or inconveniences throughout their journey. Choose us for reliable and officially sanctioned transportation, guaranteeing peace of mind from the moment you land at Cancun Airport.</p>
             </div>
 
         </div>
@@ -138,22 +137,20 @@
     <div class="container gray-container-information">
         <picture>
             <source srcset="/assets/img/home/taxirivi-cliente.webp" type="image/webp">
-            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Servicio confiable de Taxi del Aeropuerto de Cancún" title="Servicio confiable de Taxi del Aeropuerto de Cancún" loading="lazy" width="352" height="258">
+            <img src="/assets/img/home/taxirivi-cliente.jpg" alt="Reliable Cancun Airport Taxi Service" title="Reliable Cancun Airport Taxi Service" loading="lazy" width="352" height="258">
         </picture>
         <div>
-            <h2>¡Descubre la Excelencia en Transporte con Taxi Riviera Maya!</h2>
-            <p>Planifica tu viaje de manera &oacute;ptima reservando el servicio de Transporte de Canc&uacute;n a Playa del Carmen con Taxi Riviera Maya. Evita preocupaciones por la disponibilidad de transporte y los cambios de precios estacionales al realizar tu reserva con anticipaci&oacute;n.</p>
-            <p>Al elegir Taxi Riviera Maya para tu traslado desde el aeropuerto de Canc&uacute;n a Playa del Carmen, olv&iacute;date de hacer fila y de tiempos de espera para tomar una van o autob&uacute;s hacia Playa del Carmen. Garantizamos un servicio personalizado y de calidad disponible en el d&iacute;a y horario que mejor se adapte a tus necesidades.</p>
-            <p>A diferencia de otras opciones de transporte como el taxi local, la van del aeropuerto o el servicio de autob&uacute;s ADO, nosotros te llevamos a tu destino u hotel en Playa del Carmen sin necesidad de adquirir otros servicios de movilidad adicionales ni compartir tus viajes con desconocidos.</p>
-            <p>Tus reservaciones con nosotros no sufrir&aacute;n modificaciones ni interrupciones, ya que todos nuestros servicios de traslado de Canc&uacute;n a Playa del Carmen son directos, sin escalas y garantizados, si deseas cancelar lo puede hacer totalmente gratis con anticipaci&oacute;n con alg&uacute;n asesor.</p>
-            <p>Con Taxi Riviera Maya, obtendr&aacute;s el mejor transporte en Playa del Carmen que te permitir&aacute; conocer la ciudad de manera r&aacute;pida, segura y c&oacute;moda. Reserva ahora tu transporte de Canc&uacute;n a Playa del Carmen y disfruta del mejor servicio al mejor precio hacia cualquier hotel en Playa del Carmen.</p>
-            <a href="#" class="btn" title="Reserva Ahora">RESERVA AHORA</a>
+            <h2>Transportation service from Cancun Airport to Playa del Carmen with Caribbean Taxi, offering the best customer service!</h2>
+            <p>Caribbean Taxi distinguishes itself by delivering a comprehensive and inviting transfer service designed to surpass your expectations. Our commitment revolves around providing a travel experience that not only emphasizes efficiency and safety but also injects a touch of warmth and personalization for each of our esteemed clients.</p>
+            <p>Easily recognizable in our distinctive orange uniforms, you'll spot us at Cancun Airport, ensuring your arrival is both inviting and stress-free. At Caribbean Taxi, our dedicated team ensures that your journey from the airport to Playa del Carmen is seamless and enjoyable.</p>
+            <p>Whether you're embarking on a vacation or a business trip, place your trust in Caribbean Taxi for a transfer service that prioritizes your comfort and satisfaction. Experience the uniqueness of traveling with us, where complete and friendly service is not merely a commitment but a genuine promise. We eagerly look forward to welcoming you at the airport, prepared to transport you to your Playa del Carmen destination with a heartfelt smile and the utmost professionalism!</p>
+            <a href="#" class="btn" title="BOOK NOW">BOOK NOW</a>
         </div>
     </div>
 
     <div class="container our_services">
         <div class="top">
-            <h2>Servicios de Traslado desde y hacia Playa del Carmen</h2>
+            <h2>Our transportation services</h2>
         </div>
         <div class="bottom">
 
@@ -161,40 +158,40 @@
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/van.webp" type="image/webp">
-                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Traslado a Playa del Carmen Privado" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/van.png" alt="Van de pasajeros" title="Private Transportation" loading="lazy" width="343" height="196">
                     </picture>
                 </div>
-                <h3>Traslado a Playa del Carmen Privado</h3>
+                <h3>Private Transportation</h3>
                 <div>
-                    <p>Servicio de Traslado desde y hacia Playa del Carmen, el servicio se proporciona en un VW Transporter para hasta 8 pasajeros. Disponible para todas las zonas de Playa del Carmen.</p>
+                    <p>This transportation is available for all our destinations, the service is provided in a VW Transporter for up to 8 passengers (children/infants are considered as passengers).</p>
                 </div>
-                <p>Desde <span>$1,259 MXN</span></p>
+                <p>From <span>$29 USD</span></p>
             </div>
             <div>
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/suburban.webp" type="image/webp">
-                        <img src="/assets/img/services/suburban.png" alt="Cevrolet Suburban" title="Transporte de Lujo a Playa del Carmen" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/suburban.png" alt="Cevrolet Suburban" title="Luxury Transportation" loading="lazy" width="343" height="196">
                     </picture>
                 </div>                
-                <h3>Transporte de Lujo a Playa del Carmen</h3>
+                <h3>Luxury Transportation</h3>
                 <div>
-                    <p>Este transporte está disponible para todas las zonas de Playa del Carmen, el servicio se proporciona en una Suburban de Lujo o similar para hasta 5 pasajeros.</p>
+                    <p>This transportation is available for all our destinations, the service is provided in a Suburban for up to 5 passengers (children/infants are considered as passengers).</p>
                 </div>
-                <p>Desde <span>$2,610 MXN</span></p>
+                <p>From <span>$78 USD</span></p>
             </div>
             <div>
                 <div class="image">
                     <picture>
                         <source srcset="/assets/img/services/crafter.webp" type="image/webp">
-                        <img src="/assets/img/services/crafter.png" alt="VW Crafter" title="Transporte a Playa del Carmen para grupos" loading="lazy" width="343" height="196">
+                        <img src="/assets/img/services/crafter.png" alt="VW Crafter" title="Group Transportation" loading="lazy" width="343" height="196">
                     </picture>
                 </div>
-                <h3>Transporte a Playa del Carmen para grupos</h3>
+                <h3>Group Transportation</h3>
                 <div>
-                    <p>Este transporte está disponible para todos nuestros destinos, el servicio se proporciona en una Crafter para hasta 16 pasajeros o similar.</p>
+                    <p>This transportation is available for all our destinations, the service is provided in a VW Transporter for up to 12 passengers (children/infants are considered as passengers).</p>
                 </div>
-                <p>Desde <span>$2,610 MXN</span></p>
+                <p>From <span>$78 USD</span></p>
             </div>
 
         </div>
@@ -204,46 +201,46 @@
         <div class="container items-highlights">
             <div>
                 <p>21k+</p>
-                <p>Clientes felices</p>
+                <p>Happy customers</p>
             </div>
             <div>
                 <p>21517</p>
-                <p>Traslados operados</p>
+                <p>Operated transfers</p>
             </div>
             <div>
                 <p>10622</p>
-                <p>Destinos disponibles</p>
+                <p>Available destinations</p>
             </div>
             <div>
                 <p>24Hrs</p>
-                <p>Horario de servicio</p>
+                <p>Service hours</p>
             </div>
         </div>
     </div>
 
     <div class="container rates_information">
         <div class="top">
-            <h2>TARIFAS POR ZONA DE SERVICIO DE TAXI</h2>
+            <h2>TAXI SERVICE ZONE RATES</h2>
         </div>
         <div class="bottom">
             <table class="table table-striped table-responsive">
                 <caption>
-                    Precios de Servicios de Taxi por Destino
+                    Taxi Service Prices by Destination
                 </caption>
                 <thead>
                     <tr>
-                        <th rowspan="2" scope="col" class="destino">Destino</th>
+                        <th rowspan="2" scope="col" class="destino">Destination</th>
                         <th colspan="2">
-                            Taxi Privado<br>
-                            1-8 pasajeros
+                            Private Taxi<br>
+                            1-8 passengers
                         </th>
                         <th colspan="2">
-                            Taxi de Lujo<br>
-                            1-5 pasajeros
+                            Luxury Taxi<br>
+                            1-5 passengers
                         </th>
                         <th colspan="2">
-                            Taxi para Grupos<br>
-                            1-16 pasajeros
+                            Taxi for Groups<br>
+                            1-16 passengers
                         </th>
                     </tr>
                     <tr>
@@ -258,174 +255,174 @@
                 <tbody>
                     <tr>
                         <td><strong>Cancun Downtown</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Cancun Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$539 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,079 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,079 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$2,718 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$539 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,079 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,079 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$2,718 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Morelos</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$990 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,880 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,080 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,060 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,880 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,660 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$990 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,880 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,080 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,060 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,880 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,660 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Playa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Juárez</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$850 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$1,600 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$3,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$850 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$1,600 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$1,800 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$1,600 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$3,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Playa del Carmen</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,500 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,700 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,900 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,900 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,700 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Costa Mujeres</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,100 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$4,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$4,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,718 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$4,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$4,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Cozumel</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,404 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$2,718 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$2,900 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$5,700 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$2,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$5,400 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,404 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$2,718 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$2,900 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$5,700 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$2,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$5,400 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Puerto Aventuras</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$3,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$6,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,600 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$3,300 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$6,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Akumal</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$1,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$3,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$3,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$7,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$3,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$6,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$1,800 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$3,500 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$3,700 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$7,300 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$3,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$6,900 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Mahahual</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,100 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,600 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$11,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,404 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,100 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Holbox</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$5,200 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$10,300 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$10,620 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$20,900 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$10,300 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$20,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$5,200 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$10,300 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$10,620 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$20,900 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$10,300 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$20,500 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Valladolid</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$7,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$15,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$15,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$31,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$15,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$7,800 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$15,500 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$15,700 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$31,404 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$15,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Merida</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$9,800 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$17,500 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$17,700 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$32,718 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$17,500 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$30,900 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$9,800 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$17,500 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$17,700 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$32,718 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$17,500 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$30,900 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Bacalar</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$11,100 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$22,100 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$11,404 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$22,500 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$5,600 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$11,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$11,100 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$22,100 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$11,404 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$22,500 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Coba</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Sencillo)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 3 Pasajeros (Redondo)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Hotel Zone</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                     <tr>
                         <td><strong>Tulum Arco</strong></td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Sencillo)">$2,322 MXN</td>
-                        <td data-label="Taxi Privado" data-sublabel="1 - 8 Pasajeros (Redondo)">$4,554 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Sencillo)">$5,400 MXN</td>
-                        <td data-label="Taxi de Lujo" data-sublabel="1 - 6 Pasajeros (Redondo)">$10,620 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Sencillo)">$4,554 MXN</td>
-                        <td data-label="Taxi para Grupos" data-sublabel="1 - 16 Pasajeros (Redondo)">$10,620 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (One Way)">$2,322 MXN</td>
+                        <td data-label="Private Taxi" data-sublabel="1 - 8 Passengers (Round Trip)">$4,554 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (One Way)">$5,400 MXN</td>
+                        <td data-label="Luxury Taxi" data-sublabel="1 - 6 Passengers (Round Trip)">$10,620 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (One Way)">$4,554 MXN</td>
+                        <td data-label="Taxi for Groups" data-sublabel="1 - 16 Passengers (Round Trip)">$10,620 MXN</td>
                     </tr>
                 </tbody>
             </table>            
@@ -436,16 +433,16 @@
         <div class="mask"></div>
         <div class="container">
             <div class="top">
-                <h2>Comentarios de nuestros clientes</h2>
-                <h3>Descubra por qué nos eligen nuestros clientes</h3>
+                <h2>Comments from our customers</h2>
+                <h3>Discover why our customers choose us</h3>
             </div>
             <div class="bottom">
                 <div class="write_review">
                     <div>
                         <p class="rating">Rating</p>
-                        <p class="rating_count">4.7 <span>4107 comentarios</span></p>
+                        <p class="rating_count">4.7 <span>4107 comments</span></p>
                     </div>
-                    <a title="Escribir comentario" target="_blank" href="https://g.page/r/CaJOK2AW7uT6EB0/review">Escribir comentario</a>                  
+                    <a title="Escribir comentario" target="_blank" href="https://g.page/r/CRiPQCgp1RMmEB0/review">Write a comment</a>                  
                 </div>
                 <div class="items">
 
@@ -453,18 +450,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/1.webp" type="image/webp">
-                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Taxi Riviera Maya" title="ANA M." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/1.jpg" alt="Cliente de Caribbean Taxi" title="Celia G." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>ANA M.</p>
+                                <p>Celia G.</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Mi traslado con Taxi Riviera Maya fue simplemente excepcional. El conductor demostró ser profesional y amigable, la camioneta espaciosa brindó comodidad y la tarifa fue más que justa. Definitivamente, la mejor opción en Playa del Carmen</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>Embarked on an exceptional transfer journey with Caribbean Taxi in Playa del Carmen! The distinctive orange booth at the airport was a beacon of relief, ensuring a seamless experience. The driver, dressed in the unmistakable orange uniform, greeted us warmly. The ride was not only comfortable but also came with a fair fare, making Caribbean Taxi the ultimate choice for reaching any destination in Playa del Carmen.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>
 
@@ -472,18 +469,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/2.webp" type="image/webp">
-                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Taxi Riviera Maya" title="Steph L." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/2.jpg" alt="Cliente de Caribbean Taxi" title="Karla T." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>Steph L.</p>
+                                <p>Karla T.</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>¡Una experiencia de traslado inolvidable! Llegaron puntualmente y  la camioneta estaba impecable. La relación calidad-precio es excepcional. Sin duda, Taxi Riviera Maya destaca en traslados a Playa del Carmen</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>Flawless transfer service awaited me with Caribbean Taxi in Playa del Carmen! The effortless discovery of the orange uniform affirmed my decision's correctness. Punctuality surpassed expectations, the vehicle gleamed in top-notch condition, and the value for money was unparalleled. Caribbean Taxi not only excels in service but also in the simplicity of locating them in Playa del Carmen, setting them apart.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>
 
@@ -491,18 +488,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/3.webp" type="image/webp">
-                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Taxi Riviera Maya" title="LILIANA R." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/3.jpg" alt="Cliente de Caribbean Taxi" title="Ferenc S." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>LILIANA R..</p>
+                                <p>Ferenc S.</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Quisiera destacar la impecabilidad del servicio de Taxi Riviera Maya. La tarifa es muy accesible. Recomiendo ampliamente esta empresa en Playa del Carmen</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>My enthusiastic recommendation goes to Caribbean Taxi in Playa del Carmen. From touchdown, the distinctive orange booth stood out, making it effortlessly noticeable. The fare was reasonable, and the service showcased a commendable quality. Undoubtedly the premier choice, their presence in Playa del Carmen significantly streamlined the entire process.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>
 
@@ -510,18 +507,18 @@
                         <div class="top">
                             <picture>
                                 <source srcset="/assets/img/reviews/4.webp" type="image/webp">
-                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Taxi Riviera Maya" title="ANDREA T." loading="lazy" width="60" height="60">
+                                <img src="/assets/img/reviews/4.jpg" alt="Cliente de Caribbean Taxi" title="Chris M." loading="lazy" width="60" height="60">
                             </picture>
                             <div>
-                                <p>FERNANDO L.</p>
+                                <p>Chris M.</p>
                                 <p>{{ date("M") }} {{ date("Y") }}</p>
                             </div>
                         </div>
                         <div class="bottom">
                             <div class="rating_stars"></div>
-                            <p>Aunque mi experiencia en el aeropuerto fue un desafío, el traslado con Taxi Riviera Maya fue un alivio. El conductor fue excepcionalmente amable, el precio justo y la calidad del servicio excelente. Totalmente recomendado en Playa del Carmen</p>
-                            <a class="read_more" title="Leer más" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Leer más</a>
-                            <a class="posted_on" title="Posteado en" target="_blank" href="https://maps.app.goo.gl/5xoswtczNDpwdEBQ8">Posteado en <span>Google</span></a>
+                            <p>Amidst the challenges, Caribbean Taxi in Playa del Carmen emerged as a relieving presence. Their easily recognizable booth and orange uniform, coupled with the friendly driver and fair fare, made the experience worthwhile. Highly endorsed for reaching any destination in Playa del Carmen, especially for those who appreciate the convenience of locating them effortlessly.</p>
+                            <a class="read_more" title="Read more" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Read more</a>
+                            <a class="posted_on" title="Posted on" target="_blank" href="https://maps.app.goo.gl/xB9tdQES4QqbHjku6">Posted on <span>Google</span></a>
                         </div>
                     </div>
 
@@ -532,26 +529,20 @@
 
     <div class="container how_to_information">
         <div class="top">
-            <h2>¿Cómo llegar de Cancún a Playa del Carmen?</h2>
+            <h2>How to get from Cancun Airport to Playa del Carmen?</h2>
         </div>
         <div class="bottom">
             <div class="left">
-                <p>Explorar Playa del Carmen, una joya tur&iacute;stica en M&eacute;xico y una de las puertas de entrada a la Riviera Maya, te ofrece diversas opciones para trasladarte desde Canc&uacute;n. Abundan las alternativas, y aqu&iacute; te presentamos algunas para que elijas la que mejor se adapte a tus necesidades.&nbsp;</p>
-                <h3>Transporte P&uacute;blico / Colectivo</h3>
-                <p>Para una opci&oacute;n r&aacute;pida y econ&oacute;mica, considera los colectivos o vans. Aunque no est&aacute;n disponibles directamente desde el aeropuerto de Canc&uacute;n, puedes llegar al centro o la zona hotelera y dirigirte a la terminal de colectivos, ubicada en las afueras de la estaci&oacute;n de autobuses ADO. A diferencia de los autobuses ADO, los colectivos pueden hacer paradas a lo largo del trayecto sin necesidad de llegar a la terminal, brind&aacute;ndote flexibilidad en tu viaje.</p>
-                <h4>Renta de Autos</h4>
-                <p>Si buscas total libertad en tu viaje, alquilar un auto es una excelente opci&oacute;n. Las compa&ntilde;&iacute;as de renta de autos populares se encuentran tanto en el aeropuerto como en la ciudad, aunque se recomienda reservar con anticipaci&oacute;n para evitar esperas prolongadas. Toma la carretera 307 y llegar&aacute;s a Playa del Carmen en aproximadamente una hora, aunque ten en cuenta que esta v&iacute;a, aunque principal, puede ser un desaf&iacute;o si no est&aacute;s acostumbrado a las carreteras mexicanas.&nbsp;</p>
-                <h3>Autob&uacute;s ADO</h3>
-                <p>El autob&uacute;s ADO es una elecci&oacute;n c&oacute;moda y econ&oacute;mica, con viajes de aproximadamente 1 hora y 15 minutos desde Canc&uacute;n. Equipados con aire acondicionado y wifi, ofrecen horarios que van desde las 5 AM hasta las 11 PM. Puedes comprar tus boletos a tu llegada en el mostrador de autobuses ADO en el aeropuerto o hacerlo en l&iacute;nea si conoces tu hora de llegada. Ten en cuenta que los autobuses ADO te llevar&aacute;n solo a la terminal de autobuses, por lo que si tu destino es un hotel espec&iacute;fico, deber&aacute;s tomar un taxi u otro medio de transporte.</p>
-                <h3>Taxi&nbsp;</h3>
-                <p>Aunque el servicio de taxi es m&aacute;s r&aacute;pido, el precio es m&aacute;s elevado y var&iacute;a seg&uacute;n la temporada y la distancia. El trayecto desde el Aeropuerto de Canc&uacute;n a Playa del Carmen toma aproximadamente 60 minutos. Si bien es una opci&oacute;n conveniente, puede representar un desaf&iacute;o para tu presupuesto.</p>
-                <h3>Transporte Privado</h3>
-                <p>La opci&oacute;n m&aacute;s c&oacute;moda es el servicio privado de Taxi Riviera Maya. Con transporte directo y sin compartir el viaje con desconocidos ni paradas continuas, este servicio garantiza comodidad y eficiencia. Los veh&iacute;culos, aptos para hasta 15 pasajeros, ofrecen un viaje placentero, y los conductores biling&uuml;es facilitan la comunicaci&oacute;n. Adem&aacute;s, todos los servicios cuentan con seguro de viaje para garantizar tu seguridad durante el traslado. Considera esta opci&oacute;n para un viaje sin complicaciones y llega a Playa del Carmen con estilo y tranquilidad.</p>
+                <p>For travelers landing at Cancun Airport and destined for the coastal paradise of Playa del Carmen, seamless transportation options abound to ensure a comfortable and efficient journey. Situated approximately 68 kilometers apart, these two destinations are well-connected, offering various choices to suit diverse preferences and travel needs.</p>
+                <p>A favored option is the use of private transportation services, including taxis or transfer companies. At Cancun Airport, authorized taxi services with fixed rates to Playa del Carmen are readily available. Additionally, several transfer companies provide shared or private shuttle services, catering to groups of varying sizes and preferences.</p>
+                <p>Conveniently, bus services also link Cancun Airport with Playa del Carmen. These buses offer a cost-effective alternative and are ideal for those seeking a straightforward and budget-friendly solution.</p>
+                <p>Alternatively, for those desiring greater autonomy, renting a car at the airport is a viable choice. With well-maintained road networks, the drive from Cancun to Playa del Carmen is straightforward, allowing travelers to explore the region at their own pace.</p>
+                <p>Preplanning transportation is essential to ensure a hassle-free transfer. By doing so, travelers can select the option that best aligns with their needs, whether prioritizing comfort, affordability, or flexibility on the journey from Cancun to Playa del Carmen. With these accessible transportation choices, visitors can revel in a seamless transition from the vibrant atmosphere of Cancun to the relaxed beaches of Playa del Carmen.</p>
             </div>
             <div class="right">
                 <picture>
                     <source srcset="/assets/img/destinations/playa-del-carmen/playa-del-carmen.webp" type="image/webp">
-                    <img src="/assets/img/destinations/playa-del-carmen/playa-del-carmen.jpg" alt="vista emblematica de Tulum con playa" title="Cómo llegar a Tulum" loading="lazy" width="373" height="260">
+                    <img src="/assets/img/destinations/playa-del-carmen/playa-del-carmen.jpg" alt="Emblematic view of playa del carmen" title="Emblematic view of playa del carmen" loading="lazy" width="373" height="260">
                 </picture>
             </div>
         </div>
@@ -559,55 +550,124 @@
 
     <div class="container destinations_information">
         <div class="top">
-            <h2>Servicio de traslado de cancun a playa del carmen y más</h2>
-            <p>Ofrecemos el servicio más completo de transporte a cualquier hotel o destino en Playa del Carmen o viceversa, desde cualquier destino en la Riviera Maya o Aeropuerto, brindamos un servicio completo siempre listo para llevarte a tu hotel o atracción favorita en Playa del Carmen o cualquier destino en la Riviera Maya.</p>
+            <h2>Transportation service in playa del carmen</h2>
+            <p>When it comes to your transfer to Playa del Carmen, rely on Caribbean Taxi for a service that is both reliable and exceptional. Our specialization lies in offering the most comprehensive and trustworthy transportation service throughout the region. Whether you're arriving at the Airport or any destination within Playa del Carmen, our dedicated team is prepared to seamlessly transport you to your hotel or preferred location in the city. Choose Caribbean Taxi for a transfer experience that guarantees comfort and security, ensuring a smooth and delightful beginning to your stay in Playa del Carmen. Transform your arrival into a hassle-free experience with Caribbean Taxi!.</p>
         </div>
         <div class="bottom">
             <div>
-                <a href="/traslado-de-cancun-tulum" title="Traslado a Tulum">
+                <a href="/cancun-to-tulum-shuttle" title="Tulum Transportation">
+                    <picture>
+                        <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
+                        <img src="/assets/img/destinations/tulum-destino.jpg" alt="Tulum Transportation" title="Tulum Transportation" loading="lazy" width="373" height="260">
+                    </picture>
+                </a>
+                <div>
+                    <h3><a href="/cancun-to-tulum-shuttle" title="Tulum Transportation">Tulum Transportation</a></h3>
+                    <p>Enjoy a safe, fast and reliable Tulum Transportation service. Estimated transfer time from Cancun is 1 hour and 40 minutes.</p>
+                </div>
+            </div>
+            <div>
+                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">
+                    <picture>
+                        <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
+                        <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Transportation to Playa del Carmen" title="Transportation to Playa del Carmen" loading="lazy" width="373" height="260">
+                    </picture>
+                </a>
+                <div>
+                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Transportation to Playa del Carmen">Transportation to Playa del Carmen</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Playa del Carmen. Estimated transfer time from Cancun is 55 minutes.</p>
+                </div>
+            </div>
+            <div>
+                <a href="/cancun-airport-transportation" title="Cancun Airport Taxi">
+                    <picture>
+                        <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
+                        <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Cancun Airport Taxi" title="Cancun Airport Taxi" loading="lazy" width="373" height="260">
+                    </picture>
+                </a>
+                <div>
+                    <h3><a href="/cancun-airport-transportation" title="Cancun Airport Taxi">Cancun Airport Taxi</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to the Hotel Zone. Estimated transfer time from the airport to the Hotel Zone is 30 minutes.</p>
+                </div>
+            </div>
+            <div>
+                <a href="/cancun-to-akumal-shuttle" title="Akumal Shuttle">
+                    <picture>
+                        <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
+                        <img src="/assets/img/destinations/destino-akumal.jpg" alt="Akumal Shuttle" title="Akumal Shuttle" loading="lazy" width="373" height="260">
+                    </picture>
+                </a>
+                <div>
+                    <h3><a href="/cancun-to-akumal-shuttle" title="Akumal Shuttle">Akumal Shuttle</a></h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Akumal. Estimated transfer time from Cancun to Akumal is 1 hour and 40 minutes.</p>
+                </div>
+            </div>
+            <div>
+                <picture>
+                    <source srcset="/assets/img/destinations/puerto-morelos-destino-taxi.webp" type="image/webp">
+                    <img src="/assets/img/destinations/puerto-morelos-destino-taxi.jpg" alt="Transportation to Puerto Morelos" title="Transportation to Puerto Morelos" loading="lazy" width="373" height="260">
+                </picture>
+                <div>
+                    <h3>Transportation to Puerto Morelos</h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Morelos. Estimated transfer time from Cancun is 30 minutes.</p>
+                </div>
+            </div>
+            <div>
+                <picture>
+                    <source srcset="/assets/img/destinations/destino-puerto-aventuras.webp" type="image/webp">
+                    <img src="/assets/img/destinations/destino-puerto-aventuras.jpg" alt="Transportation to Puerto Aventuras" title="Transportation to Puerto Aventuras" loading="lazy" width="373" height="260">
+                </picture>
+                <div>
+                    <h3>Transportation to Puerto Aventuras</h3>
+                    <p>Enjoy a safe, fast and reliable transfer service to Puerto Aventuras. Estimated transfer time from Cancun is 1 hour and 20 minutes.</p>
+                </div>
+            </div>
+        </div><div class="bottom">
+            <div>
+                <a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">
                     <picture>
                         <source srcset="/assets/img/destinations/tulum-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/tulum-destino.jpg" alt="Traslado a Tulum" title="Traslado a Tulum" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/traslado-de-cancun-tulum" title="Traslado a Tulum">Traslado a Tulum</a></h3>
+                    <h3><a href="/cancun-to-tulum-shuttle" title="Traslado a Tulum">Traslado a Tulum</a></h3>
                     <p>Disfruta de un servicio de Traslado a Tulum seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 1 hora y 40 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/transporte-cancun-a-playa-del-carmen" title="Traslado a Playa del Carmen">
+                <a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">
                     <picture>
                         <source srcset="/assets/img/destinations/playa-del-carmen-destino.webp" type="image/webp">
                         <img src="/assets/img/destinations/playa-del-carmen-destino.jpg" alt="Traslado a Playa del Carmen" title="Traslado a Playa del Carmen" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transporte-cancun-a-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
+                    <h3><a href="/transportation-cancun-airport-to-playa-del-carmen" title="Traslado a Playa del Carmen">Traslado a Playa del Carmen</a></h3>
                     <p>Disfruta de un servicio de Traslado a Playa del Carmen seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún es de 55 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/taxi-aeropuerto-cancun" title="Taxi en el Aeropuerto de Cancún">
+                <a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">
                     <picture>
                         <source srcset="/assets/img/destinations/cancun-zona-hotelera.webp" type="image/webp">
                         <img src="/assets/img/destinations/cancun-zona-hotelera.jpg" alt="Taxi en el Aeropuerto de Cancún" title="Taxi en el Aeropuerto de Cancún" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/taxi-aeropuerto-cancun" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
+                    <h3><a href="/cancun-airport-transportation" title="Taxi en el Aeropuerto de Cancún">Taxi en el Aeropuerto de Cancún</a></h3>
                     <p>Disfruta de un servicio de Traslado a la Zona Hotelera seguro, rápido y confiable. El tiempo estimado de traslado desde el Aeropuerto a la Zona Hotelera es de 30 minutos</p>
                 </div>
             </div>
             <div>
-                <a href="/transporte-cancun-a-akumal" title="Traslado a Akumal">
+                <a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">
                     <picture>
                         <source srcset="/assets/img/destinations/destino-akumal.webp" type="image/webp">
                         <img src="/assets/img/destinations/destino-akumal.jpg" alt="Traslado a Akumal" title="Traslado a Akumal" loading="lazy" width="373" height="260">
                     </picture>
                 </a>
                 <div>
-                    <h3><a href="/transporte-cancun-a-akumal" title="Traslado a Akumal">Traslado a Akumal</a></h3>
+                    <h3><a href="/cancun-to-akumal-shuttle" title="Traslado a Akumal">Traslado a Akumal</a></h3>
                     <p>Disfruta de un servicio de Traslado a Akumal seguro, rápido y confiable. El tiempo estimado de traslado desde Cancún a Akumal es de 1 hora y 40 minutos</p>
                 </div>
             </div>
@@ -637,16 +697,15 @@
     <div class="container additional_information">
         <div class="bottom">
             <div class="left">                
-                <h2>Transportación a playa del carmen con taxi riviera maya</h2>
-                <p>Playa del Carmen, ubicada en la hermosa Riviera Maya de M&eacute;xico, es un destino tur&iacute;stico de renombre mundial que ofrece una mezcla perfecta de playas de arena blanca, aguas turquesas y una animada vida nocturna. Esta joya caribe&ntilde;a cuenta con una gran variedad de atractivos que la convierten en un destino imperdible para quienes buscan experiencias aut&eacute;nticas y memorables.</p>
-                <p>Comenzando por las playas paradis&iacute;acas, Playa del Carmen cuenta con kil&oacute;metros de costa donde puedes relajarte bajo el c&aacute;lido sol, disfrutar de las suaves olas del mar y explorar los vibrantes arrecifes de coral que albergan una sorprendente diversidad de vida marina. La famosa Quinta Avenida es otro punto destacado, una avenida peatonal llena de tiendas, restaurantes, bares y entretenimiento en vivo, donde puedes sumergirte en la cultura local y disfrutar de la escena art&iacute;stica y gastron&oacute;mica.</p>
-                <p>Para los amantes de la aventura, los parques tem&aacute;ticos Xcaret y Xplor ofrecen emocionantes actividades, desde nadar en r&iacute;os subterr&aacute;neos hasta tirolesas en la selva. Adem&aacute;s, las antiguas ruinas mayas de Tulum y Cob&aacute; est&aacute;n a poca distancia, proporcionando una inmersi&oacute;n fascinante en la rica historia de la regi&oacute;n.</p>
-                <p>Para explorar todos estos encantos, contar con un servicio de transporte confiable es esencial. Aqu&iacute; es donde Taxi Riviera Maya se convierte en tu aliado perfecto. M&aacute;s all&aacute; de ser simplemente un servicio de taxi, Taxi Riviera Maya se dedica a brindar una experiencia de traslado que complementa la magia de Playa del Carmen.</p>
+                <h2>Your Trusted Companion in Playa del Carmen: Caribbean Taxi</h2>
+                <p>Experience a stress-free sojourn in Playa del Carmen with Caribbean Taxi, your dedicated ally in exploration. Tailored to cater to the needs of tourists visiting this picturesque locale, we prioritize convenience and reliability throughout your transportation journey.</p>
+                <p>Caribbean Taxi goes beyond being a mere transportation service; we are your companion in navigating the charming streets and scenic spots of Playa del Carmen. Recognizable in our vibrant orange uniforms, our team is poised to assist, guide, and ensure your time in Playa del Carmen is marked by positive and memorable moments.</p>
+                <p>Whether you're heading to your hotel, exploring cultural gems, or embarking on exciting adventures, Caribbean Taxi is your steadfast ally. From the moment you arrive at your destination, our commitment to excellence, safety, and customer satisfaction guarantees a seamless and enjoyable travel experience. Trust Caribbean Taxi as your travel companion in Playa del Carmen, turning your visit into a memorable journey filled with ease and exploration.</p>
             </div>
             <div class="right">
                 <picture>
                     <source srcset="/assets/img/home/client.webp" type="image/webp">
-                    <img src="/assets/img/home/client.png" alt="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" title="Más que sólo un servicio de Taxi en el Aeropuerto de Cancún" loading="lazy" width="390" height="481">
+                    <img src="/assets/img/home/client.png" alt="Your Trusted Companion in Playa del Carmen: Caribbean Taxi" title="Your Trusted Companion in Playa del Carmen: Caribbean Taxi" loading="lazy" width="390" height="481">
                 </picture>
             </div>
         </div>
@@ -654,191 +713,68 @@
 
     <div class="container faqs_section">
         <div class="top">
-            <h2>Preguntas Frecuentes sobre el servicio de Traslados</h2>
-            <p>Te ayudamos a despejar tus dudas sobre el servicio de Traslados a Playa del Carmen</p>
+            <h2>Frequently Asked Questions about Caribbean Taxi and Transfers in Playa del Carmen</h2>
+            <p>Solve your doubts with our frequently asked questions</p>
         </div>
         <div class="bottom">
             <div>
-                <h3>¿Cuánto tiempo dura el traslado desde el aeropuerto de Cancún hasta Playa del Carmen?</h3>
+                <h3>What is Caribbean Taxi's specialization in Playa del Carmen?</h3>
                 <div>
-                    <p>El tiempo estimado de traslado desde el aeropuerto de Cancún hasta Playa del Carmen es de aproximadamente 50 minutos a una hora, dependiendo del tráfico y las condiciones del camino. La distancia entre las dos ciudades es de alrededor de 68 kilómetros. Es importante tener en cuenta que el tráfico en la zona de Cancún y Playa del Carmen puede ser intenso, especialmente durante las horas pico y los días de alta demanda turística, como en temporada alta.</p>
+                    <p>Caribbean Taxi excels in providing reliable and exceptional transfer services in Playa del Carmen, ensuring comfort and safety for visitors.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cómo llegar a Playa del Carmen desde el aeropuerto de Cancún?</h3>
+                <h3>How can I book a service with Caribbean Taxi in Playa del Carmen?</h3>
                 <div>
-                    <p>Hay varias formas de llegar a Playa del Carmen desde el aeropuerto de Cancún, incluyendo el transporte privado, los servicios de transporte compartido, los taxis, los autobuses y los coches de alquiler. La opción más popular es el transporte privado o el servicio de transporte compartido. Muchas empresas de transporte ofrecen servicios de traslado desde el aeropuerto de Cancún hasta Playa del Carmen y viceversa. El transporte privado suele ser más caro, pero ofrece una mayor comodidad y privacidad, mientras que el transporte compartido es más económico y permite conocer a otros viajeros que se dirigen al mismo destino.</p>
+                    <p>Booking is quick and easy. You can reserve your service online through our website or contact us directly.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Hay taxi en el aeropuerto de Cancún que te lleven a Playa del Carmen?</h3>
+                <h3>Which major destinations does Caribbean Taxi cover in Playa del Carmen?</h3>
                 <div>
-                    <p>Sí, hay taxis disponibles en el aeropuerto de Cancún que pueden llevarte a Playa del Carmen. Puedes encontrar los taxis en las áreas designadas del aeropuerto. Los precios pueden variar dependiendo de la compañía de taxis y el tipo de servicio que elijas, pero en general, los taxis son una opción cómoda y rápida para llegar a Playa del Carmen desde el aeropuerto de Cancún.</p>
+                    <p>Caribbean Taxi offers transfer services to hotels, beaches, and prominent tourist spots in Playa del Carmen and its surroundings.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Qué medios de transporte existen para ir de Cancún a Playa del Carmen?</h3>
+                <h3>Is it possible to make changes to the reservation once confirmed?</h3>
                 <div>
-                    <p>Además de los taxis, los medios de transporte disponibles para ir de Cancún a Playa del Carmen incluyen servicios de transporte privado, servicios de transporte compartido, autobuses y coches de alquiler. Los servicios de transporte privado y compartido son las opciones más populares y convenientes, ya que proporcionan un servicio directo desde el aeropuerto de Cancún hasta tu hotel en Playa del Carmen. </p>
-                    <p>Los autobuses son una opción más económica, pero pueden tardar más en llegar y pueden requerir transbordos. El alquiler de coches es una buena opción para aquellos que quieren tener más libertad para explorar los alrededores, pero es importante tener en cuenta que la conducción en México puede ser diferente a lo que se está acostumbrado y puede haber barreras idiomáticas al interactuar con la policía local.</p>
+                    <p>Yes, you can make changes to your reservation by contacting our customer service team in advance.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cuál es la distancia de Cancún a Playa del Carmen?</h3>
+                <h3>Does Caribbean Taxi provide transfer services from Cancun Airport to Playa del Carmen?</h3>
                 <div>
-                    <p>La distancia entre Cancún y Playa del Carmen es de aproximadamente 68 kilómetros (42 millas) si se recorre por carretera. La ruta más común para llegar a Playa del Carmen desde el aeropuerto de Cancún es tomar la autopista 307, que atraviesa la Riviera Maya. El tiempo estimado de viaje en automóvil es de alrededor de 45 minutos a una hora, dependiendo del tráfico y las condiciones del camino. Sin embargo, también hay opciones de transporte público y privado disponibles para llegar a Playa del Carmen desde Cancún.</p>
+                    <p>Yes, Caribbean Taxi offers transfer services from Cancun Airport to various destinations in Playa del Carmen.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Qué me incluye el servicio de traslado de Cancún a Playa del Carmen?</h3>
+                <h3>Does Caribbean Taxi's service include flight monitoring to accommodate changes in the itinerary?</h3>
                 <div>
-                    <p>Nuestro servicio de traslado de Cancún a Playa del Carmen incluye transporte en una camioneta amplia y cómoda con aire acondicionado, un chofer altamente capacitado y seguro de viaje. Además, también incluimos una parada opcional en una tienda de conveniencia en caso de que necesites comprar algo antes de llegar a tu destino.</p>
-                    <p>Nuestros choferes son bilingües y estarán felices de ayudarte en todo lo que necesites durante tu traslado, ya sea brindándote información sobre la zona o recomendándote lugares para visitar durante tu estancia en Playa del Carmen. Ofrecemos servicio de transporte privado, lo que significa que tendrás la camioneta solo para ti y tus compañeros de viaje, lo que garantiza una experiencia más personalizada y cómoda</p>
-                    <p>En resumen, nuestro servicio de traslado de Cancún a Playa del Carmen es una forma segura, cómoda y conveniente de llegar a tu destino final en la Riviera Maya.</p>
+                    <p>Absolutely, we monitor flights to ensure we are punctual, even in the case of schedule changes.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Qué atracciones puedo ver en Playa del Carmen?</h3>
+                <h3>What is the cancellation policy for Caribbean Taxi in Playa del Carmen?</h3>
                 <div>
-                    <p>Playa del Carmen es una ciudad vibrante y llena de vida, con una gran cantidad de atracciones turísticas y actividades para disfrutar. Algunas de las principales atracciones que puedes encontrar en Playa del Carmen son:</p>
-                    <ul>
-                        <li>
-                            <h4>Playas:</h4>
-                            <p>
-                                Las playas de Playa del Carmen son famosas por su belleza, arena blanca y aguas cristalinas. La playa más famosa es la Playa Mamitas, pero también puedes explorar otras playas como la Playa Paraíso, la Playa Xpu-Ha, la Playa
-                                Akumal y la Playa Punta Esmeralda.
-                            </p>
-                        </li>
-                        <li>
-                            <h4>La Quinta Avenida:</h4>
-                            <p>Es la calle principal de Playa del Carmen y es famosa por sus tiendas, restaurantes y bares. Aquí puedes encontrar desde tiendas de marcas internacionales hasta pequeñas boutiques locales.</p>
-                        </li>
-                        <li>
-                            <h4>Parques temáticos:</h4>
-                            <p>La Riviera Maya cuenta con una gran cantidad de parques temáticos que ofrecen actividades para toda la familia. Algunos de los parques más populares son Xcaret, Xel-Há, Xplor y Xenses.</p>
-                        </li>
-                        <li>
-                            <h4>Ruinas arqueológicas:</h4>
-                            <p>Playa del Carmen se encuentra cerca de antiguas ciudades mayas, por lo que es una excelente oportunidad para explorar las ruinas arqueológicas de Tulum, Chichén Itzá y Cobá.</p>
-                        </li>
-                        <li>
-                            <h4>Cenotes:</h4>
-                            <p>Estos son depósitos de agua dulce subterráneos, que se encuentran en todo el estado de Quintana Roo. Algunos cenotes populares en la zona son el Gran Cenote, el Cenote Dos Ojos y el Cenote Ik Kil.</p>
-                        </li>
-                        <li>
-                            <h4>Vida nocturna:</h4>
-                            <p>
-                                Playa del Carmen tiene una animada vida nocturna, con una gran cantidad de bares, discotecas y clubes. La zona de la Quinta Avenida es especialmente popular para aquellos que buscan un ambiente más relajado, mientras que la
-                                calle 12 es famosa por sus clubes nocturnos.
-                            </p>
-                        </li>
-                    </ul>
-                    <p>En resumen, Playa del Carmen es una ciudad llena de opciones para disfrutar durante tus vacaciones, con algo para todos los gustos y edades.</p>
+                    <p>The cancellation policy varies depending on the type of reservation. We recommend reviewing the conditions at the time of booking.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cuáles hoteles son recomendados para alojarse en Playa del Carmen?</h3>
+                <h3>Does Caribbean Taxi cater to large groups for transfers in Playa del Carmen?</h3>
                 <div>
-                    <p>Hay una gran cantidad de hoteles y resorts en Playa del Carmen que se adaptan a diferentes gustos y presupuestos. Algunos de los hoteles más recomendados en Playa del Carmen incluyen:</p>
-                    <ul>
-                        <li>
-                            <h4>The Royal Playa del Carmen</h4>
-                            <p>Un resort todo incluido solo para adultos con acceso directo a la playa y una variedad de restaurantes y bares.</p>
-                        </li>
-                        <li>
-                            <h4>La Quinta Avenida:</h4>
-                            <p>Es la calle principal de Playa del Carmen y es famosa por sus tiendas, restaurantes y bares. Aquí puedes encontrar desde tiendas de marcas internacionales hasta pequeñas boutiques locales.</p>
-                        </li>
-                        <li>
-                            <h4>Parques temáticos:</h4>
-                            <p>La Riviera Maya cuenta con una gran cantidad de parques temáticos que ofrecen actividades para toda la familia. Algunos de los parques más populares son Xcaret, Xel-Há, Xplor y Xenses.</p>
-                        </li>
-                        <li>
-                            <h4>Ruinas arqueológicas:</h4>
-                            <p>Playa del Carmen se encuentra cerca de antiguas ciudades mayas, por lo que es una excelente oportunidad para explorar las ruinas arqueológicas de Tulum, Chichén Itzá y Cobá.</p>
-                        </li>
-                        <li>
-                            <h4>Cenotes:</h4>
-                            <p>Estos son depósitos de agua dulce subterráneos, que se encuentran en todo el estado de Quintana Roo. Algunos cenotes populares en la zona son el Gran Cenote, el Cenote Dos Ojos y el Cenote Ik Kil.</p>
-                        </li>
-                        <li>
-                            <h4>Vida nocturna:</h4>
-                            <p>
-                                Playa del Carmen tiene una animada vida nocturna, con una gran cantidad de bares, discotecas y clubes. La zona de la Quinta Avenida es especialmente popular para aquellos que buscan un ambiente más relajado, mientras que la
-                                calle 12 es famosa por sus clubes nocturnos.
-                            </p>
-                        </li>
-                    </ul>
-                    <p>En resumen, Playa del Carmen es una ciudad llena de opciones para disfrutar durante tus vacaciones, con algo para todos los gustos y edades.</p>
+                    <p>Yes, we can accommodate large groups. Please get in touch with us for detailed information.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Cual es la distancia de Cancún a Tulum?</h3>
+                <h3>What are some of the best places to visit in Playa del Carmen?</h3>
                 <div>
-                    <p>La distancia entre Cancún y Tulum es de aproximadamente 130 kilómetros. El tiempo de viaje en automóvil puede variar dependiendo del tráfico y las condiciones de la carretera, pero generalmente se tarda entre 1,5 y 2 horas en llegar.</p>
-                    <p>Para el traslado, se puede tomar la carretera federal 307, que es la principal vía de comunicación que conecta Cancún con Tulum y otros destinos turísticos importantes en la Riviera Maya.</p>
-                    <p>La carretera federal 307 está en buenas condiciones en la mayoría de los tramos, pero es importante tener precaución en algunas secciones donde puede haber baches o topes. Además, es común encontrar tráfico pesado en ciertas áreas, especialmente durante las horas pico o en temporadas turísticas.</p>
-                    <p>Se recomienda contar con un servicio de traslado seguro y confiable, como un servicio de transporte privado o un taxi, para evitar cualquier problema y asegurar una llegada segura y cómoda a Tulum.</p>
-                    <h3>¿Cual es la distancia de Playa del Carmen a Tulum?</h3>
-                    <p>La distancia de Playa del Carmen a Tulum es de aproximadamente 64 kilómetros por carretera. El tiempo de viaje en automóvil suele ser de alrededor de 45-60 minutos, dependiendo del tráfico y las condiciones de la carretera.</p>
-                    <h3>¿Hay servicio de Uber en Tulum?</h3>
-                    <p>Sí, actualmente hay servicio de Uber en Tulum. Sin embargo, el uso de Uber puede ser limitado en ciertas áreas debido a las regulaciones locales y la competencia con los servicios de taxi locales. Además, en algunas zonas turísticas de Tulum, como la Zona Hotelera, es posible que el servicio de Uber sea menos frecuente debido a la alta demanda y la congestión del tráfico. Por lo tanto, te recomendamos planificar tu transporte con anticipación y considerar opciones adicionales como taxis locales o servicios de traslado privado para asegurarte de que tu viaje sea lo más cómodo y seguro posible.</p>
-                    <h3>¿Hay aeropuerto en Tulum?</h3>
-                    <p>No hay un aeropuerto en Tulum, pero el Aeropuerto Internacional de Cancún es la puerta de entrada más cercana a Tulum. El aeropuerto está ubicado a unos 120 kilómetros al norte de Tulum y es el segundo aeropuerto más grande de México después de la Ciudad de México. </p>
+                    <p>Highlights include Fifth Avenue, Mamitas Beach, and the Tulum ruins. Our staff can provide additional recommendations.</p>
                 </div>
             </div>
             <div>
-                <h3>¿Qué lugares visitar en Tulum?</h3>
+                <h3>Does Caribbean Taxi offer additional tourist services in Playa del Carmen?</h3>
                 <div>
-                    <p>Tulum es un destino turístico popular en México, conocido por sus playas de arena blanca, su vibrante vida nocturna y su rica historia y cultura. A continuación, te presento algunos lugares que no debes perderte al visitar Tulum:</p>
-                    <ol>
-                        <li>
-                            <h4>Zona Arqueológica de Tulum</h4>
-                            <p>Uno de los principales atractivos turísticos de la ciudad, donde se encuentran las ruinas de una antigua ciudad Maya, situada en un acantilado con impresionantes vistas al Mar Caribe.</p>
-                        </li>
-                        <li>
-                            <h4>Playa Paraíso</h4>
-                            <p>Una de las playas más hermosas y populares de Tulum, con aguas cristalinas y arenas blancas.</p>
-                        </li>
-                        <li>
-                            <h4>Cenote Dos Ojos</h4>
-                            <p>Uno de los cenotes más famosos de la zona, con aguas cristalinas, formaciones de piedra caliza y opciones de buceo y snorkel.</p>
-                        </li>
-                        <li>
-                            <h4>Tulum Pueblo</h4>
-                            <p>El centro de la ciudad, donde se pueden encontrar tiendas de artesanías, restaurantes, bares y vida nocturna.</p>
-                        </li>
-                        <li>
-                            <h4>Reserva de la Biosfera de Sian Ka'an</h4>
-                            <p>Un área natural protegida que ofrece vistas impresionantes de la flora y fauna locales, así como actividades como paseos en bote y senderismo.</p>
-                        </li>
-                        <li>
-                            <h4>Ruinas de Cobá</h4>
-                            <p>Situadas a unos 45 minutos de Tulum, las ruinas de Cobá son otro sitio arqueológico importante con la pirámide más alta de la península de Yucatán.</p>
-                        </li>
-                        <li>
-                            <h4>Xel-Ha Park</h4>
-                            <p>Un parque temático acuático que ofrece una amplia gama de actividades, incluyendo nado con delfines, snorkel, paseos en bote y más.</p>
-                        </li>
-                    </ol>
-                </div>
-            </div>
-            <div>
-                <h3>¿Cual es la distancia de Playa del Carmen a Tulum?</h3>
-                <div>
-                    <p>La distancia de Playa del Carmen a Tulum es de aproximadamente 64 kilómetros por carretera. El tiempo de viaje en automóvil suele ser de alrededor de 45-60 minutos, dependiendo del tráfico y las condiciones de la carretera.</p>
-                </div>
-            </div>
-            <div>
-                <h3>¿Hay servicio de Uber en Tulum?</h3>
-                <div>
-                    <p>Sí, actualmente hay servicio de Uber en Tulum. Sin embargo, el uso de Uber puede ser limitado en ciertas áreas debido a las regulaciones locales y la competencia con los servicios de taxi locales. Además, en algunas zonas turísticas de Tulum, como la Zona Hotelera, es posible que el servicio de Uber sea menos frecuente debido a la alta demanda y la congestión del tráfico. Por lo tanto, te recomendamos planificar tu transporte con anticipación y considerar opciones adicionales como taxis locales o servicios de traslado privado para asegurarte de que tu viaje sea lo más cómodo y seguro posible.</p>
-                </div>
-            </div>
-            <div>
-                <h3>¿Hay aeropuerto en Tulum?</h3>
-                <div>
-                    <p>No hay un aeropuerto en Tulum, pero el Aeropuerto Internacional de Cancún es la puerta de entrada más cercana a Tulum. El aeropuerto está ubicado a unos 120 kilómetros al norte de Tulum y es el segundo aeropuerto más grande de México después de la Ciudad de México.</p>
+                    <p>In addition to transfers, we provide additional tourist services such as personalized tours and suggestions for exploring the best of Playa del Carmen and its surroundings.</p>
                 </div>
             </div>
         </div>

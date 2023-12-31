@@ -38,7 +38,7 @@
     let setup = {        
         lang: 'es',
         currency: 'USD',
-        deeplink: '/resultados',
+        deeplink: '/search-result',
         serviceType: 'OW',
         pax: 1,
         items: {
@@ -227,7 +227,7 @@
             
             var form_data = document.createElement('form');
                 form_data.method = 'post';
-                form_data.action = '/resultados';
+                form_data.action = '/search-result';
 
             let form_data_type = document.createElement('input');
                 form_data_type.type = 'text';
