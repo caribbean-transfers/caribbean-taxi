@@ -28,7 +28,7 @@
     </div>
 
     <div class="container">
-        <form action="/reserva" method="POST">            
+        <form action="/my-reservation" method="POST">            
             <h2>MY RESERVATION</h2>
             <div>
                 <label>RESERVATION CODE:</label>
