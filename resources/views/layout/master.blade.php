@@ -11,7 +11,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="application-name" content="Website">
-        <meta name="author" content="Taxi Riviera Maya">
+        <meta name="author" content="Caribbean Taxi">
         @if(config('app.debug'))
             <meta name="robots" content="noindex,nofollow">
         @else

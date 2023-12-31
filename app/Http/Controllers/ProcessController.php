@@ -185,8 +185,8 @@ class ProcessController extends Controller{
                 "type" => (( $request->payment_type == 'paypal' )? 'PAYPAL' : 'STRIPE'),
                 "id" => $data['config']['id'],
                 "language" => "es",
-                "success_url" => "/gracias",
-                "cancel_url" => "/cancelar"
+                "success_url" => "/thank-you",
+                "cancel_url" => "/cancel"
             ];
             $payment_data = ApiTrait::paymentLink($payment_data);
             $payment_link = $payment_data['url'];
@@ -263,8 +263,8 @@ class ProcessController extends Controller{
                 "type" => 'PAYPAL',
                 "id" => $rez['config']['id'],
                 "language" => "es",
-                "success_url" => "/gracias",
-                "cancel_url" => "/cancelar"
+                "success_url" => "/thank-you",
+                "cancel_url" => "/cancel"
             ];
             
             $paypal = ApiTrait::paymentLink($payment_data);
@@ -276,8 +276,8 @@ class ProcessController extends Controller{
                 "type" => 'STRIPE',
                 "id" => $rez['config']['id'],
                 "language" => "es",
-                "success_url" => "/gracias",
-                "cancel_url" => "/cancelar"
+                "success_url" => "/thank-you",
+                "cancel_url" => "/cancel"
             ];            
             $stripe = ApiTrait::paymentLink($payment_data);
             if(!isset( $stripe['error'] )):
