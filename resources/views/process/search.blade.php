@@ -40,7 +40,7 @@
             <div class="top">
                 @if(isset($data['items']))
                     <h2>Transfer from {{ $data['places']['one_way']['init']['name'] }} to {{ $data['places']['one_way']['end']['name'] }}</h2>
-                    <p>Approximate distance: {{ $data['places']['distance'] }}, estimated travel time {{ $data['places']['time'] }}</p>
+                    <p>Discover the perfect trip with us! Select the vehicle that suits your style and get ready for an unforgettable experience full of comfort, safety and fun - your adventure starts with choosing your ideal vehicle! 🚗✨</p>
                 @endif
 
                 @if(isset($data['error']))
