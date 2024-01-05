@@ -31,4 +31,7 @@ class RedirectController extends Controller
     public function redirectServicesThree(){
         return Redirect::to('/assets/img/services/crafter.webp', 301);
     }
+    public function redirectTaxiQrCode(){
+        return Redirect::away('https://caribbean-taxi.com/?utm_qr=202401', 301);
+    }
 }

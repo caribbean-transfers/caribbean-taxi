@@ -61,3 +61,4 @@ Route::get('images/new_app/taxi-aeropuerto-cliente-feliz.webp', [RedirectControl
 Route::get('images/taxi-cancun-aeropuerto-van.webp', [RedirectController::class, 'redirectServicesOne']);
 Route::get('images/cancun-airport-transportation-suburban.webp', [RedirectController::class, 'redirectServicesTwo']);
 Route::get('/images/taxi-cancun-aeropuerto-crafter.webp', [RedirectController::class, 'redirectServicesThree']);
+Route::get('/qr-code', [RedirectController::class, 'redirectTaxiQrCode']);
